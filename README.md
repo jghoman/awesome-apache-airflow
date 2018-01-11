@@ -18,4 +18,4 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 * [Data quality checkers](https://drivy.engineering/data-quality/) - [Antoine Augusti](https://twitter.com/AntoineAugusti) describes the framework [drivy](https://www.drivy.co.uk/) has built atop Airflow to test their datasets for completeness, consistency, timeliness, uniquess, validity and accuracy.
 
 # Meetups
-* [https://www.meetup.com/Bay-Area-Apache-Airflow-Incubating-Meetup](Bay Area Apache Airflow Meetup)
+* [Bay Area Apache Airflow Meetup](https://www.meetup.com/Bay-Area-Apache-Airflow-Incubating-Meetup)
