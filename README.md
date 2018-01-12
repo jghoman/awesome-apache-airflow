@@ -11,7 +11,8 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 * [Running Airflow on top of Apache Mesos](http://agrajmangal.in/blog/big-data/running-airflow-on-top-of-apache-mesos/) - Blog describing how to configure [Mesos](http://mesos.apache.org/) to run all of the Airflow componenents. 
 
 # Introductions and tutorials
-* [Understanding Apache Airflow’s key concepts](https://medium.com/@dustinstansbury/understanding-apache-airflows-key-concepts-a96efed52b1a) - Part three of a series detailing [Quizlet](https://quizlet.com/)'s quest for a workflow manager, [Dustin Stansbury](https://twitter.com/corrcoef) provides a detailed overview of the key concepts Airflow offers users. 
+* [Understanding Apache Airflow’s key concepts](https://medium.com/@dustinstansbury/understanding-apache-airflows-key-concepts-a96efed52b1a) - Part three of a series detailing [Quizlet](https://quizlet.com/)'s quest for a workflow manager, [Dustin Stansbury](https://twitter.com/corrcoef) provides a detailed overview of the key concepts Airflow offers users.
+* [Apache Airflow for the confused](https://blog.capitalplanning.nyc/apache-airflow-for-the-confused-b588935669df) - This short tutorial by [Jonathan Pichot](https://twitter.com/_pichot) takes a different tack than most by using airplane and airport operations as an analogy for Airflow.
 
 # Best practices, lessons learned and cool use cases
 * [Airflow Lessons from the Data Engineering Front in Chicago](https://medium.com/stanton-ventures-insights/airflow-lessons-from-the-data-engineering-front-in-chicago-9489e6ad5c3d) - [Alison Stanton](https://twitter.com/alison985) provides a list of tips to avoid gotchas in Airflow jobs. 
