@@ -12,10 +12,9 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [Libraries, Hooks, Utilities](#libraries)
 - [Meetups](#meetups)
 - [Commercial Airflow-as-a-service providers](#providers)
-- [Non-English resources](#nonenglish)
+- [Non-English resources](#non-english-resources)
 
-Vital links
-===========
+## Vital links
 * Official website: [Apache Airflow](https://airflow.apache.org/)
 * Latest release: [1.9.0-incubating](https://cwiki.apache.org/confluence/display/AIRFLOW/Announcements#Announcements-Jan2,2018)
 * Official Twitter account: [Apache Airflow](https://twitter.com/ApacheAirflow)
@@ -64,6 +63,5 @@ Vital links
 * [Qubole](http://docs.qubole.com/en/latest/user-guide/airflow/) - Qubole is mainly known as a service-and-support company for Apache Hive, but also provides Airflow as a component of its platform.
 * [Astronomer.io](https://www.astronomer.io/) - Astronomer provides complete ETL lifecycle solutions and appears to be entirely focused on providing Airflow-based products.
 
-Non-English resources
-=====================
+## Non-English resources
 * [Apache Airflow – Kaikki Mitä Meillä On, Lähtee Dageista](https://www.solita.fi/blogit/apache-airflow-kaikki-mita-meilla-on-lahtee-dageista/) [Finnish] by [Olli Iivonen](https://www.linkedin.com/in/oiivonen/) - Overview of Airflow, concepts and Airflow's usage at [Solita](https://www.solita.fi/)
