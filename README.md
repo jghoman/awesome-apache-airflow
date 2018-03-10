@@ -3,15 +3,15 @@
 This is a curated list of resources about [Apache Airflow](https://airflow.apache.org/) ([incubating](https://incubator.apache.org/)).  Please feel free to contribute any items that should be included.  Items are generally added at the top of each section so that more fresh items are featured more prominently.
 
 ## Contents
-- [Vital links](#vitallinks)
-- [Airflow deployment solutions](#solutions)
-- [Introductions and tutorials](#introductions)
-- [Best practices, lessons learned and cool use cases](#bestpractices)
-- [Blogs, etc.](#blogs)
-- [Slide deck presentations and online videos](#slidedecks)
-- [Libraries, Hooks, Utilities](#libraries)
+- [Vital links](#vital-links)
+- [Airflow deployment solutions](#airflow-deployment-solutions)
+- [Introductions and tutorials](#introductions-and-tutorials)
+- [Best practices, lessons learned and cool use cases](#best-practices-lessons-learned-and-cool-use-cases)
+- [Blogs, etc.](#blogs-etc)
+- [Slide deck presentations and online videos](#slide-deck-presentations-and-online-videos)
+- [Libraries, Hooks, Utilities](#libraries-hooks-utilities)
 - [Meetups](#meetups)
-- [Commercial Airflow-as-a-service providers](#providers)
+- [Commercial Airflow-as-a-service providers](#commercial-airflow-as-a-service-providers)
 - [Non-English resources](#non-english-resources)
 
 ## Vital links
