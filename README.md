@@ -1,6 +1,6 @@
 [<img src="https://github.com/jghoman/awesome-apache-airflow/raw/master/airflow-logo.png" align="right">](https://airflow.apache.org/)
 # Awesome Apache Airflow
-This is a curated list of resources about [Apache Airflow](https://airflow.apache.org/) ([incubating](https://incubator.apache.org/)).  Please feel free to contribute any items that should be included.  Items are generally added at the top of each section so that more fresh items are featured more prominently.
+This is a curated list of resources about [Apache Airflow](https://airflow.apache.org/) ([incubating](https://incubator.apache.org/)).  Please feel free to contribute any items that should be included.  Items are generally added at the top of each section so that more fresh items are featured more prominently.  Maintained by [Jakob Homan](https://www.linkedin.com/in/jghoman/) and anyone who wants to help - pull requests are welcome or ping me on [Twitter](https://twitter.com/BlueBoxTraveler).
 
 ## Contents
 - [Vital links](#vital-links)
