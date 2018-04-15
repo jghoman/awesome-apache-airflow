@@ -78,4 +78,5 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 * [Astronomer.io](https://www.astronomer.io/) - Astronomer provides complete ETL lifecycle solutions and appears to be entirely focused on providing Airflow-based products.
 
 ## Non-English resources
+* [apache airflow 複数worker構成のalpine版docker imageを作った](https://sekailab.com/wp/2018/04/05/apache-airflow-multinode-alpine-docker-image/) [Japanese] - [Akio Ohta](https://github.com/Drunkar) walks through his [Docker image](https://hub.docker.com/r/drunkar/airflow-alpine/) for deploying an Alpine-based Airflow system.
 * [Apache Airflow – Kaikki Mitä Meillä On, Lähtee Dageista](https://www.solita.fi/blogit/apache-airflow-kaikki-mita-meilla-on-lahtee-dageista/) [Finnish] by [Olli Iivonen](https://www.linkedin.com/in/oiivonen/) - Overview of Airflow, concepts and Airflow's usage at [Solita](https://www.solita.fi/)
