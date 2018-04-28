@@ -59,6 +59,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 * [Robert Chang](https://medium.com/@rchang) - Blog posts about data engineering with Apache Airflow, explains why and has examples in code.
 
 ## Slide deck presentations and online videos
+* [Modern Data Pipelines with Apache Airflow](https://blog.tedmiston.com/momentum-2018-airflow-talk/) - A talk given by [Taylor Edmiston](https://twitter.com/kicksopenminds) and [Andy Cooper](https://twitter.com/andscoop) from Astronomer.io at Momentum Dev Con 2018 on getting started with Airflow, custom components, example DAGs, and the Astronomer Airflow CLI.
 * [Building Better Data Pipelines using Apache Airflow](https://www.slideshare.net/r39132/building-better-data-pipelines-using-apache-airflow-94060954) - Slides from [Sid Anand](https://twitter.com/r39132)'s talk at QCon 18 with a thorough overview of Airflow and its architecture.
 * [Airflow and Spark Streaming at Astronomer](https://paper.dropbox.com/doc/Airflow-Spark-talk-v2.0-5own4Nlz8MhdwKQ8QhIqj?_tk=share_copylink) - How Astronomer uses dynamic DAGs to run Spark Streaming jobs with Airflow.
 * [Developing elegant workflows in Python code with Apache Airflow](https://eventil.com/presentations/j2sK9R) - [Michał Karzyński](https://twitter.com/postrational) at [Europython](https://ep2018.europython.eu/) gives a brief introduction to Airflow concepts including the role of workflow managers, DAGs and operators.  Link includes both video and slides.
