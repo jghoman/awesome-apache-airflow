@@ -81,7 +81,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 * [Bay Area Apache Airflow Meetup](https://www.meetup.com/Bay-Area-Apache-Airflow-Incubating-Meetup)
 
 ## Commercial Airflow-as-a-service providers
-* [Google Cloud Composer](https://cloud.google.com/composer/) - Google cloud composer is a managed service, combine the strengths of Google Cloud Platform with Airflow. 
+* [Google Cloud Composer](https://cloud.google.com/composer/) - Google Cloud Composer is a managed service built atop Google Cloud Compute and Airflow.
 * [Qubole](http://docs.qubole.com/en/latest/user-guide/airflow/) - Qubole is mainly known as a service-and-support company for Apache Hive, but also provides Airflow as a component of its platform.
 * [Astronomer.io](https://www.astronomer.io/) - Astronomer provides complete ETL lifecycle solutions and appears to be entirely focused on providing Airflow-based products.
 
