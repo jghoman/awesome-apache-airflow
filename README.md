@@ -89,6 +89,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 
 ## Meetups
 * [Bay Area Apache Airflow Meetup](https://www.meetup.com/Bay-Area-Apache-Airflow-Incubating-Meetup)
+* [Seattle Apache Airflow Meetup](https://www.meetup.com/Seattle-Apache-Airflow-Users-Group/)
 
 ## Commercial Airflow-as-a-service providers
 * [Google Cloud Composer](https://cloud.google.com/composer/) - Google Cloud Composer is a managed service built atop Google Cloud and Airflow.
