@@ -82,6 +82,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 * [Introduction to Apache Airflow - Data Day Seattle 2016](https://www.slideshare.net/r39132/introduction-to-apache-airflow-data-day-seattle-2016) - [Sid Anand](https://twitter.com/r39132) gives a thorough introduction to Airflow and how it was used at [Agari](https://www.agari.com/).
 * [Operating Data Pipeline With Airflow - Airflow Meetup April-2018](https://speakerdeck.com/vananth22/operating-data-pipeline-with-airflow-at-slack) - [Ananth Packkildurai](https://twitter.com/ananthdurai) talks about scaling airflow Local Executor and best practices to operate data pipeline at [Slack](https://slack.com/).
 * [Apache Airflow at WePay](https://wepayinc.app.box.com/s/hf1chwmthuet29ux2a83f5quc8o5q18k) - [Chris Riccomini](https://twitter.com/criccomini) discusses why WePay chose Airflow and provides a detailed breakdown of their deployment and the infrastructure behind it.
+* [Elegant data pipelining with Apache Airflow](https://www.youtube.com/watch?v=neuh_2_zrt8) - Talks from [Bolke de Bruin](https://twitter.com/bolke2028) and [Fokko Driesprong](https://twitter.com/fokkodriesprong) at PyData Amsterdam 2018 about methodologies that provide clarity in ETL using Airflow.
 
 ## Libraries, Hooks, Utilities
 * [Airflow plugins](https://github.com/airflow-plugins/) - Central collection of repositories of various plugins for Airflow, including mailchimp, trello, sftp, github, etc.
