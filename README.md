@@ -20,6 +20,8 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 * Official Twitter account: [Apache Airflow](https://twitter.com/ApacheAirflow)
 
 ## Airflow deployment solutions
+* [KubernetesExecutor Helm Chart](https://github.com/tekn0ir/airflow-chart) - A lean Helm Chart focused on using the KubernetesExecutor for a more k8s native experience and complementary [KubernetesExecutor Docker Image](https://github.com/tekn0ir/airflow-docker).
+* [Stable Celery Helm Chart](https://github.com/helm/charts/tree/master/stable/airflow) - Curated Helm Chart in the official stable chart repository.
 * [Puckel's Docker Image](https://github.com/puckel/docker-airflow) - [@Puckel_](https://twitter.com/Puckel_)'s well-crafted Docker image has become the base for many Airflow installations.  It is regularly updated and closely tracks the official Apache releases.
 * [Kubernetes Custom Operator for Deploying Airflow](https://github.com/GoogleCloudPlatform/airflow-operator) - Kubernetes Custom controller (also called operator pattern) for deploying Airflow on Kubernetes.
 * [airflow-pipeline](https://github.com/datagovsg/airflow-pipeline) - Airflow Docker container that comes preconfigured for Spark and Hadoop.  It can be docker pulled at ``datagovsg/airflow-pipeline``.
