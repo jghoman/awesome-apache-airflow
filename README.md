@@ -68,6 +68,8 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 * [ETL with airflow](https://gtoonstra.github.io/etl-with-airflow/) - ETL core principles and several end-to-end docker-based examples including Kimball, Data Vault on Hive and some simpler examples.
 * [How to aggregate data for BigQuery using Apache Airflow](https://cloud.google.com/blog/big-data/2017/07/how-to-aggregate-data-for-bigquery-using-apache-airflow) - Example of how to use Airflow with Google BigQuery to power a Data Studio dashboard.
 * [Productionizing ML with workflows at Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows.html) - In depth post on why and how Twitter use Airflow for ML workflows including including custom operators and a custom UI embedded in in the Airflow web interface.
+* [Running Apache Airflow At Lyft](https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff) - This provides an overview on how Lyft operates Apache Airflow in production(monitoring, customization, etc).
+* [Deploying Apache Airflow in Azure to build and run data pipelines](https://azure.microsoft.com/sv-se/blog/deploying-apache-airflow-in-azure-to-build-and-run-data-pipelines/) - It talks about running Airflow on Azure.
 
 ## Blogs, etc.
 * [The Airflow Podcast](https://soundcloud.com/the-airflow-podcast) - A semiregular podcast discussing all things Airflow.
