@@ -18,7 +18,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 * Official website: [Apache Airflow](https://airflow.apache.org/)
 * Latest release: [1.10.1-incubating](https://cwiki.apache.org/confluence/display/AIRFLOW/Announcements#Announcements-Nov21,2018)
 * Official Twitter account: [Apache Airflow](https://twitter.com/ApacheAirflow)
-* Official Slack channel: [Apache Airflow Slack](https://apache-airflow-slack.herokuapp.com/)
+* Slack channel: [Apache Airflow Slack](https://apache-airflow-slack.herokuapp.com/)
 
 ## Airflow deployment solutions
 * [KubernetesExecutor Helm Chart](https://github.com/tekn0ir/airflow-chart) - A lean Helm Chart using the KubernetesExecutor for a more k8s native experience and complementary [KubernetesExecutor Docker Image](https://github.com/tekn0ir/airflow-docker).
