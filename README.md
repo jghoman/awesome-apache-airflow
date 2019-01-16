@@ -18,6 +18,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 * Official website: [Apache Airflow](https://airflow.apache.org/)
 * Latest release: [1.10.1-incubating](https://cwiki.apache.org/confluence/display/AIRFLOW/Announcements#Announcements-Nov21,2018)
 * Official Twitter account: [Apache Airflow](https://twitter.com/ApacheAirflow)
+* Slack channel: [Apache Airflow Slack](https://apache-airflow-slack.herokuapp.com/)
 
 ## Airflow deployment solutions
 * [KubernetesExecutor Helm Chart](https://github.com/tekn0ir/airflow-chart) - A lean Helm Chart using the KubernetesExecutor for a more k8s native experience and complementary [KubernetesExecutor Docker Image](https://github.com/tekn0ir/airflow-docker).
@@ -46,6 +47,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 * [Integrating Apache Airflow with Databricks](https://databricks.com/blog/2017/07/19/integrating-apache-airflow-with-databricks.html) - While this tutorial is focused specifically on Databricks' Spark solutions, it does have a reasonable overview of Airflow basics and demonstrates how a third party solution can quickly integrate into Airflow.
 
 ## Best practices, lessons learned and cool use cases
+* [Airflow: Lesser Known Tips, Tricks, and Best Practises](https://medium.com/datareply/airflow-lesser-known-tips-tricks-and-best-practises-cf4d4a90f8f) - [Kaxil Naik](https://www.linkedin.com/in/kaxil/) has explained the lesser-known yet very useful tips and best practises on using Airflow.
 * [boundary-layer:Declarative Airflow Workflows](https://codeascraft.com/2018/11/14/boundary-layer%E2%80%89-declarative-airflow-workflows/) - [Kevin McHale](https://www.linkedin.com/in/mchalek) has explained open source project boundary-layer which generates airflow dag with declarative workflows.
 * [Testing in Airflow Part 1](https://medium.com/@chandukavar/testing-in-airflow-part-1-dag-validation-tests-dag-definition-tests-and-unit-tests-2aa94970570c) - [Chandu Kavar](https://twitter.com/chandukavar) has explained different categories of tests in Airflow. It includes DAG Validation Tests, DAG Definition Tests, and Unit Tests
 * [Improving Airflow UI Security](https://wecode.wepay.com/posts/improving-airflow-ui-security) - WePay's [Joy Gao](https://twitter.com/joygao) breaks down the need for Role Based Access Controls (RBAC) and how she introduced it to Airflow.
