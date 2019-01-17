@@ -45,6 +45,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
   * [How Quizlet uses Apache Airflow in practice](https://medium.com/@dustinstansbury/how-quizlet-uses-apache-airflow-in-practice-a903cbb5626d)
 * [Apache Airflow for the confused](https://blog.capitalplanning.nyc/apache-airflow-for-the-confused-b588935669df) - This short tutorial by [Jonathan Pichot](https://twitter.com/_pichot) takes a different tack than most by using airplane and airport operations as an analogy for Airflow.
 * [Integrating Apache Airflow with Databricks](https://databricks.com/blog/2017/07/19/integrating-apache-airflow-with-databricks.html) - While this tutorial is focused specifically on Databricks' Spark solutions, it does have a reasonable overview of Airflow basics and demonstrates how a third party solution can quickly integrate into Airflow.
+* [Apache Airflow: Tutorial and Beginners Guide](https://www.polidea.com/blog/apache-airflow-tutorial-and-beginners-guide/) - the article discusses the basic concepts that stand behind Airflow and discusses the problems it solves.
 
 ## Best practices, lessons learned and cool use cases
 * [Airflow: Lesser Known Tips, Tricks, and Best Practises](https://medium.com/datareply/airflow-lesser-known-tips-tricks-and-best-practises-cf4d4a90f8f) - [Kaxil Naik](https://www.linkedin.com/in/kaxil/) has explained the lesser-known yet very useful tips and best practises on using Airflow.
