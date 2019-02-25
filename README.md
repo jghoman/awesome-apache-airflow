@@ -1,6 +1,6 @@
 [<img src="https://github.com/jghoman/awesome-apache-airflow/raw/master/airflow-logo.png" align="right">](https://airflow.apache.org/)
 # Awesome Apache Airflow
-This is a curated list of resources about [Apache Airflow](https://airflow.apache.org/) ([incubating](https://incubator.apache.org/)).  Please feel free to contribute any items that should be included.  Items are generally added at the top of each section so that more fresh items are featured more prominently.
+This is a curated list of resources about [Apache Airflow](https://airflow.apache.org/).  Please feel free to contribute any items that should be included. Items are generally added at the top of each section so that more fresh items are featured more prominently.
 
 ## Contents
 - [Vital links](#vital-links)
@@ -16,7 +16,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 
 ## Vital links
 * Official website: [Apache Airflow](https://airflow.apache.org/)
-* Latest release: [1.10.1-incubating](https://cwiki.apache.org/confluence/display/AIRFLOW/Announcements#Announcements-Nov21,2018)
+* Latest release: [1.10.2](https://cwiki.apache.org/confluence/display/AIRFLOW/Announcements#Announcements-Jan22,2019)
 * Official Twitter account: [Apache Airflow](https://twitter.com/ApacheAirflow)
 * Slack channel: [Apache Airflow Slack](https://apache-airflow-slack.herokuapp.com/)
 
@@ -106,13 +106,13 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 * [Seattle Apache Airflow Meetup](https://www.meetup.com/Seattle-Apache-Airflow-Users-Group/)
 * [London Apache Airflow Meetup](https://www.meetup.com/London-Apache-Airflow-Meetup/)
 
-
 ## Commercial Airflow-as-a-service providers
 * [Google Cloud Composer](https://cloud.google.com/composer/) - Google Cloud Composer is a managed service built atop Google Cloud and Airflow.
 * [Qubole](http://docs.qubole.com/en/latest/user-guide/airflow/) - Qubole is mainly known as a service-and-support company for Apache Hive, but also provides Airflow as a component of its platform.
 * [Astronomer.io](https://www.astronomer.io/) - Astronomer provides complete ETL lifecycle solutions and appears to be entirely focused on providing Airflow-based products.
 
 ## Non-English resources
+* [Airflow Documentation-Chinese](https://airflow.apachecn.org) [Chinese] - [Apachecn](https://github.com/apachecn) - Translate Airflow official documentation in chinese.
 * [Gestion de Tâches avec Apache Airflow](http://ncrocfer.github.io/posts/gestion-de-taches-avec-apache-airflow/) [French] - [Nicolas Crocfer](https://github.com/ncrocfer) - Overview of Airflow, basic concepts and how to write and trigger a DAG.
 * [apache airflow 複数worker構成のalpine版docker imageを作った](https://sekailab.com/wp/2018/04/05/apache-airflow-multinode-alpine-docker-image/) [Japanese] - [Akio Ohta](https://github.com/Drunkar) walks through his [Docker image](https://hub.docker.com/r/drunkar/airflow-alpine/) for deploying an Alpine-based Airflow system.
 * [Apache Airflow – Kaikki Mitä Meillä On, Lähtee Dageista](https://www.solita.fi/blogit/apache-airflow-kaikki-mita-meilla-on-lahtee-dageista/) [Finnish] by [Olli Iivonen](https://www.linkedin.com/in/oiivonen/) - Overview of Airflow, concepts and Airflow's usage at [Solita](https://www.solita.fi/)
