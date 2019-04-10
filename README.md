@@ -21,7 +21,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 * Slack channel: [Apache Airflow Slack](https://apache-airflow-slack.herokuapp.com/)
 
 ## Airflow deployment solutions
-* [Apache Airflow Multi-Tier Free Deployment on Azure](https://azure.microsoft.com/en-us/blog/bitnami-apache-airflow-multi-tier-now-available-in-azure-marketplace/) - Apache Airflow Multi-Tier template providing a 1-click solution for Azure deployment.
+* [Apache Airflow Multi-Tier Free Deployment on Azure](https://azure.microsoft.com/en-us/blog/bitnami-apache-airflow-multi-tier-now-available-in-azure-marketplace/) - A free Azure Resource Manager (ARM) template by Bitnami providing a 1-click solution for Airflow deployment on Azure for production use-cases.
 * [KubernetesExecutor Helm Chart](https://github.com/tekn0ir/airflow-chart) - A lean Helm Chart using the KubernetesExecutor for a more k8s native experience and complementary [KubernetesExecutor Docker Image](https://github.com/tekn0ir/airflow-docker).
 * [Stable Celery Helm Chart](https://github.com/helm/charts/tree/master/stable/airflow) - Curated Helm Chart in the official stable chart repository.
 * [Puckel's Docker Image](https://github.com/puckel/docker-airflow) - [@Puckel_](https://twitter.com/Puckel_)'s well-crafted Docker image has become the base for many Airflow installations.  It is regularly updated and closely tracks the official Apache releases.
