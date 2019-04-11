@@ -34,6 +34,9 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 * [Running Airflow on top of Apache Mesos](http://agrajmangal.in/blog/big-data/running-airflow-on-top-of-apache-mesos/) - Blog describing how to configure [Mesos](http://mesos.apache.org/) to run all of the Airflow componenents.
 * [Integrating Apache Airflow with Apache Ambari](https://medium.com/@mykolamykhalov/integrating-apache-airflow-with-apache-ambari-ccab2c90173) - [Mykola Mykhalov](https://www.linkedin.com/in/mykola-mykhalov-9079a8107/) walks through using [Apache Ambari](https://ambari.apache.org/) to configure and deploy an Airflow instance.
 * [Astronomer Open Edition github](https://github.com/astronomerio/astronomer) - [Open Edition of the Astronomer Platform](https://open.astronomer.io/) including Docker images for Airflow (Celery Executor), Postgres, Redis, Flower, StatsD, Prometheus, Grafana, and cAdvisor.
+* [Bitnami Airflow Docker image](https://github.com/bitnami/bitnami-docker-airflow) - A secure and up-to-date docker image for Airflow maintained by Bitnami.
+* [Bitnami Airflow Scheduler Docker image](https://github.com/bitnami/bitnami-docker-airflow-scheduler) - A secure and up-to-date docker image for Airflow Scheduler maintained by Bitnami.
+* [Bitnami Airflow Worker Docker image](https://github.com/bitnami/bitnami-docker-airflow-worker) - A secure and up-to-date docker image for Airflow Worker maintained by Bitnami. A CeleryExecutor docker-compose deployment is available [here](https://github.com/bitnami/bitnami-docker-airflow-worker/blob/master/docker-compose.yml).
 
 ## Introductions and tutorials
 * [How Apache Airflow Distributes Jobs on Celery workers](https://blog.sicara.com/using-airflow-with-celery-workers-54cb5212d405) - A short description of the steps taken by a task instance, from scheduling to success, in a distributed architecture.
