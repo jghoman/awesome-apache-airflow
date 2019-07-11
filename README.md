@@ -16,7 +16,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 
 ## Vital links
 * Official website: [Apache Airflow](https://airflow.apache.org/)
-* Latest release: [1.10.2](https://cwiki.apache.org/confluence/display/AIRFLOW/Announcements#Announcements-Jan22,2019)
+* Latest release: [1.10.3](https://cwiki.apache.org/confluence/display/AIRFLOW/Announcements#Announcements-Announcements-Apr10,2019)
 * Official Twitter account: [Apache Airflow](https://twitter.com/ApacheAirflow)
 * Slack channel: [Apache Airflow Slack](https://apache-airflow-slack.herokuapp.com/)
 
