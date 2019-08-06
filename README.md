@@ -101,6 +101,9 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 * [Apache Airflow at WePay](https://wepayinc.app.box.com/s/hf1chwmthuet29ux2a83f5quc8o5q18k) - [Chris Riccomini](https://twitter.com/criccomini) discusses why WePay chose Airflow and provides a detailed breakdown of their deployment and the infrastructure behind it.
 * [Elegant data pipelining with Apache Airflow](https://www.youtube.com/watch?v=neuh_2_zrt8) - Talks from [Bolke de Bruin](https://twitter.com/bolke2028) and [Fokko Driesprong](https://twitter.com/fokkodriesprong) at PyData Amsterdam 2018 about methodologies that provide clarity in ETL using Airflow.
 * [Airflow @ Lyft](https://www.slideshare.net/taofung/airflow-at-lyft) - Talks from [Tao Feng](https://github.com/feng-tao) at SF big data analytics meetup about how Lyft monitors running Airflow in production.
+* [Manageable data pipelines with Airflow and Kubernetes](https://youtu.be/bcF24AdG1o4)- Talk by [Jarek Potiuk](https://github.com/potiuk) and [Szymon Przedwojski](https://github.com/sprzedwojski) - introductory talk on Airflow from GDG Warsaw DevFest 2018
+* [It's a Breeze to develop Airflow](https://www.youtube.com/watch?v=fUE-naGytLc) - Talk by [Jarek Potiuk](https://github.com/potiuk) from Airflow Bay Area Meetup June 2018 about new development environment for Airflow
+* [Migrating Apache Oozie Workflows to Apache Airflow](https://www.youtube.com/watch?v=8L1F-6t_6Ao.) - Talk from [Szymon Przedwojski](https://github.com/sprzedwojski) from Airflow Bay Area Meetup June 2018 about Oozie-to-Airflow migration tool
 
 ## Libraries, Hooks, Utilities
 * [Airflow plugins](https://github.com/airflow-plugins/) - Central collection of repositories of various plugins for Airflow, including mailchimp, trello, sftp, github, etc.
