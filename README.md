@@ -15,10 +15,11 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [Non-English resources](#non-english-resources)
 
 ## Vital links
-* Official website: [Apache Airflow](https://airflow.apache.org/)
-* Latest release: [1.10.3](https://cwiki.apache.org/confluence/display/AIRFLOW/Announcements#Announcements-Announcements-Apr10,2019)
-* Official Twitter account: [Apache Airflow](https://twitter.com/ApacheAirflow)
-* Slack channel: [Apache Airflow Slack](https://apache-airflow-slack.herokuapp.com/)
+* [Source code](https://github.com/apache/airflow/tree/1.10.4) (latest stable release 1.10.4)
+* [Documentation](https://airflow.apache.org/) (also the official website)
+* [Confluence page](https://cwiki.apache.org/confluence/display/AIRFLOW/Airflow+Home)
+* [Twitter account](https://twitter.com/ApacheAirflow)
+* [Slack workspace](https://apache-airflow-slack.herokuapp.com/)
 
 ## Airflow deployment solutions
 * [Apache Airflow Multi-Tier Free Deployment on Azure](https://azure.microsoft.com/en-us/blog/bitnami-apache-airflow-multi-tier-now-available-in-azure-marketplace/) - A free Azure Resource Manager (ARM) template by Bitnami providing a 1-click solution for Airflow deployment on Azure for production use-cases.
