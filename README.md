@@ -117,6 +117,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 * [test_dags](https://gist.github.com/criccomini/2862667822af7fae8b55682faef029a7) - a more complete solution for DAG integrity tests ([first Circle of Data’s Inferno are the first](https://medium.com/@ingwbaa/datas-inferno-7-circles-of-data-testing-hell-with-airflow-cef4adff58d8).
 * [dag-factory](https://github.com/ajbosco/dag-factory) - a library for dynamically generating Apache Airflow DAGs from YAML configuration files.
 * [whirl](https://github.com/godatadriven/whirl) - Fast iterative local development and testing of Apache Airflow workflows
+* [airflow-code-editor](https://github.com/andreax79/airflow-code-editor) - A plugin for Apache Airflow that allows you to edit DAGs in browser 
 
 ## Meetups
 * [Bay Area Apache Airflow Meetup](https://www.meetup.com/Bay-Area-Apache-Airflow-Incubating-Meetup)
