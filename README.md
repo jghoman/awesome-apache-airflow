@@ -86,7 +86,8 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [Running Apache Airflow At Lyft](https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff) - This provides an overview on how Lyft operates Apache Airflow in production(monitoring, customization, etc).
 - [Deploying Apache Airflow in Azure to build and run data pipelines](https://azure.microsoft.com/sv-se/blog/deploying-apache-airflow-in-azure-to-build-and-run-data-pipelines/) - It talks about running Airflow on Azure.
 
-## Blogs and such
+## Books, blogs, podcasts, and such
+- [Data Pipelines with Apache Airflow](https://www.manning.com/books/data-pipelines-with-apache-airflow) - A Manning book (Early Access September 2019) on Airflow.
 - [The Airflow Podcast](https://soundcloud.com/the-airflow-podcast) - A semiregular podcast discussing all things Airflow.
 - [Maxime Beauchemin](https://medium.com/@maximebeauchemin) - Maxime's blog on medium that gives insight into the philosophy behind Apache Airflow.
 - [Robert Chang](https://medium.com/@rchang) - Blog posts about data engineering with Apache Airflow, explains why and has examples in code.
@@ -108,6 +109,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [Manageable data pipelines with Airflow and Kubernetes](https://youtu.be/bcF24AdG1o4)- Talk by [Jarek Potiuk](https://github.com/potiuk) and [Szymon Przedwojski](https://github.com/sprzedwojski). A introductory talk on Airflow from GDG Warsaw DevFest 2018.
 - [It's a Breeze to develop Airflow](https://www.youtube.com/watch?v=fUE-naGytLc) - Talk by [Jarek Potiuk](https://github.com/potiuk) from Airflow Bay Area Meetup June 2018 about new development environment for Airflow.
 - [Migrating Apache Oozie Workflows to Apache Airflow](https://www.youtube.com/watch?v=8L1F-6t_6Ao.) - Talk from [Szymon Przedwojski](https://github.com/sprzedwojski) from Airflow Bay Area Meetup June 2018 about Oozie-to-Airflow migration tool.
+- [Building data lakes with Apache Airflow](https://www.youtube.com/watch?v=MM8tfTrcnfk) - Talk by [Bas Harenslak](https://github.com/BasPH) and [Julian de Ruiter](https://github.com/jrderuiter) at the Amsterdam Apache Airflow September 2018 meetup about building data lakes with Apache Airflow as the spider in the web managing all data flows.
 
 ## Libraries, Hooks, Utilities
 - [Airflow plugins](https://github.com/airflow-plugins/) - Central collection of repositories of various plugins for Airflow, including mailchimp, trello, sftp, GitHub, etc.
@@ -118,12 +120,14 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [dag-factory](https://github.com/ajbosco/dag-factory) - A library for dynamically generating Apache Airflow DAGs from YAML configuration files.
 - [whirl](https://github.com/godatadriven/whirl) - Fast iterative local development and testing of Apache Airflow workflows.
 - [airflow-code-editor](https://github.com/andreax79/airflow-code-editor) - A plugin for Apache Airflow that allows you to edit DAGs in browser.
+- [Pylint-Airflow](https://github.com/BasPH/pylint-airflow) - A Pylint plugin for static code analysis on Airflow code.
 
 ## Meetups
 - [Bay Area Apache Airflow Meetup](https://www.meetup.com/Bay-Area-Apache-Airflow-Incubating-Meetup)
 - [Seattle Apache Airflow Meetup](https://www.meetup.com/Seattle-Apache-Airflow-Users-Group/)
 - [London Apache Airflow Meetup](https://www.meetup.com/London-Apache-Airflow-Meetup/)
 - [New York City Apache Airflow Meetup](https://www.meetup.com/NYC-Apache-Airflow-Meetup/)
+- [Amsterdam Apache Airflow Meetup](https://www.meetup.com/Amsterdam-Airflow-meetup)
 
 ## Commercial Airflow-as-a-service providers
 - [Google Cloud Composer](https://cloud.google.com/composer/) - Google Cloud Composer is a managed service built atop Google Cloud and Airflow.
