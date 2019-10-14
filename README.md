@@ -132,12 +132,11 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [New York City Apache Airflow Meetup](https://www.meetup.com/NYC-Apache-Airflow-Meetup/)
 - [Amsterdam Apache Airflow Meetup](https://www.meetup.com/Amsterdam-Airflow-meetup)
 - [Melbourne Apache Airflow Meetup](https://www.meetup.com/Melbourne-Apache-Airflow-Meetup/)
-- [Paris Apache Airflow Meetup](https://www.meetup.com/pt-BR/Paris-Apache-Airflow-Meetup/)
-- [Seattle Apache Airflow Meetup](https://www.meetup.com/pt-BR/Seattle-Apache-Airflow-Users-Group/)
-- [Portland Apache Airflow Meetup](https://www.meetup.com/pt-BR/Portland-Apache-Airflow-Meetup/)
-- [Tokyo Apache Airflow (incubating) Meetup](https://www.meetup.com/pt-BR/Tokyo-Apache-Airflow-incubating-Meetup/)
-- [Bangalore Apache Airflow Meetup](https://www.meetup.com/pt-BR/Bangalore-Apache-Airflow-Meetup/)
-- [Warsaw Airflow Meetup](https://www.meetup.com/pt-BR/Warsaw-Airflow-Meetup/)
+- [Paris Apache Airflow Meetup](https://www.meetup.com/Paris-Apache-Airflow-Meetup/)
+- [Portland Apache Airflow Meetup](https://www.meetup.com/Portland-Apache-Airflow-Meetup/)
+- [Tokyo Apache Airflow (incubating) Meetup](https://www.meetup.com/Tokyo-Apache-Airflow-incubating-Meetup/)
+- [Bangalore Apache Airflow Meetup](https://www.meetup.com/Bangalore-Apache-Airflow-Meetup/)
+- [Warsaw Apache Airflow Meetup](https://www.meetup.com/Warsaw-Airflow-Meetup)
 
 ## Commercial Airflow-as-a-service providers
 - [Google Cloud Composer](https://cloud.google.com/composer/) - Google Cloud Composer is a managed service built atop Google Cloud and Airflow.
