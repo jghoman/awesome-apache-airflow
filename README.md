@@ -91,6 +91,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [The Zen of Python and Apache Airflow](https://blog.godatadriven.com/zen-of-python-and-apache-airflow) - Blog post about how the Zen of Python can be applied to Airflow code.
 - [Securing Apache Airflow UI WITH DAG Level Access](https://eng.lyft.com/securing-apache-airflow-ui-with-dag-level-access-a7bc649a2821) - Blog post about Airflow DAG level access and how Lyft uses it.
 - [Upgrading Airflow with Zero Downtime](https://medium.com/flatiron-engineering/upgrading-airflow-with-zero-downtime-8df303760c96) - A detailed article on how to deploy Airflow with zero downtime.
+- [Building a Production-Level ETL Pipeline Platform Using Apache Airflow](https://towardsdatascience.com/building-a-production-level-etl-pipeline-platform-using-apache-airflow-a4cf34203fbd) - This post describes how the system management team at Cerner uses Airflow.
 
 ## Books, blogs, podcasts, and such
 - [Data Pipelines with Apache Airflow](https://www.manning.com/books/data-pipelines-with-apache-airflow) - A Manning book (Early Access September 2019) on Airflow.
