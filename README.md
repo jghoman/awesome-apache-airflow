@@ -118,8 +118,8 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [It's a Breeze to develop Airflow - Cloud Native Warsaw](https://www.youtube.com/watch?v=18pEeeyjInU) - Introducing Breeze development environment by [Jarek Potiuk](https://github.com/potiuk) from September 2019, [Cloud Native Warsaw conferencei](http://cloudnativewarsaw.com/).
 - [Migrating Apache Oozie Workflows to Apache Airflow](https://www.youtube.com/watch?v=8L1F-6t_6Ao.) - Talk from [Szymon Przedwojski](https://github.com/sprzedwojski) from Airflow Bay Area Meetup June 2018 about Oozie-to-Airflow migration tool.
 - [Building data lakes with Apache Airflow](https://www.youtube.com/watch?v=MM8tfTrcnfk) - Talk by [Bas Harenslak](https://github.com/BasPH) and [Julian de Ruiter](https://github.com/jrderuiter) at the Amsterdam Apache Airflow September 2018 meetup about building data lakes with Apache Airflow as the spider in the web managing all data flows.
-- [First Warsaw Apache Airflow Meetup](https://youtu.be/Nr4Pp1SNXeU) - Live streamed recording from the first Apache Airflow Meetup in Warsaw in October 2019
-- [What's coming in Apache Airflow 2.0](https://youtu.be/p6d3tr02exQ) - talk by  [Jarek Potiuk](https://github.com/potiuk) from December 2019 at [PyData Warsaw](https://pydata.org/warsaw2019/)
+- [First Warsaw Apache Airflow Meetup](https://youtu.be/Nr4Pp1SNXeU) - Live streamed recording from the first Apache Airflow Meetup in Warsaw in October 2019.
+- [What's coming in Apache Airflow 2.0](https://youtu.be/p6d3tr02exQ) - talk by [Jarek Potiuk](https://github.com/potiuk) from December 2019 at [PyData Warsaw](https://pydata.org/warsaw2019/)
 
 ## Libraries, Hooks, Utilities
 - [Airflow plugins](https://github.com/airflow-plugins/) - Central collection of repositories of various plugins for Airflow, including mailchimp, trello, sftp, GitHub, etc.
