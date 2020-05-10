@@ -157,6 +157,15 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [Qubole](http://docs.qubole.com/en/latest/user-guide/airflow/) - Qubole is mainly known as a service-and-support company for Apache Hive, but also provides Airflow as a component of its platform.
 - [Astronomer.io](https://www.astronomer.io/) - Astronomer provides complete ETL lifecycle solutions and appears to be entirely focused on providing Airflow-based products.
 
+## Related to Cloud Composer
+
+This section contains articles that apply to Cloud Composer - a service built by Google Cloud based on Apache Airlfow. Tricks and solutions are described here that are intended for Cloud Composer, but may be applicable to vanilllaa Airflow
+
+- [https://medium.com/traveloka-engineering/enabling-autoscaling-in-google-cloud-composer-ac84d3ddd60](Enabling Autoscaling in Google Cloud Composer) - Supercharge your Cloud Composer deployment while saving up some cost on idle period
+- [https://cloud.google.com/blog/products/data-analytics/scale-your-composer-environment-together-your-business]() - The Celery Executor architecture and ways to ensure high scheduler performance.
+- [pianka.sh] - Missing command in the cloud applicaation. This tool facilitates some administrative tasks.
+
+
 ## Non-English resources
 - [Airflow Documentation-Chinese](https://airflow.apachecn.org) - (🇨🇳Chinese) [Apachecn](https://github.com/apachecn) has translated the Airflow official documentation.
 - [Gestion de Tâches avec Apache Airflow](http://ncrocfer.github.io/posts/gestion-de-taches-avec-apache-airflow/) - (🇫🇷French) [Nicolas Crocfer](https://github.com/ncrocfer) - Overview of Airflow, basic concepts and how to write and trigger a DAG.
