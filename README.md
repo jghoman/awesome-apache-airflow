@@ -40,6 +40,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [Bitnami Airflow Scheduler Docker image](https://github.com/bitnami/bitnami-docker-airflow-scheduler) - A secure and up-to-date docker image for Airflow Scheduler maintained by Bitnami.
 - [Bitnami Airflow Worker Docker image](https://github.com/bitnami/bitnami-docker-airflow-worker) - A secure and up-to-date docker image for Airflow Worker maintained by Bitnami. A CeleryExecutor docker-compose deployment is available [here](https://github.com/bitnami/bitnami-docker-airflow-worker/blob/master/docker-compose.yml).
 - [Distribute & deploy Apache Airflow via Python PEX files](https://github.com/msumit/airflow-pex) - Example repo with steps to bundle, distribute, & deploy Apache Airflow as PEX files.
+- [Introducing KEDA for Airflow](https://www.astronomer.io/blog/the-keda-autoscaler/) - How to use KEDA scaler system to enable autoscaling of celery workers based on data stored in the Airflow metadata database. 
 
 ## Introductions and tutorials
 - [Automate AWS Tasks Thanks to Airflow Hooks](https://blog.sicara.com/automate-aws-tasks-boto3-airflow-hooks-593c3120e8fc) - A step by step tutorial to understand how to connect your Airflow pipeline to S3.
