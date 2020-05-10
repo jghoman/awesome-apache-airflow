@@ -163,7 +163,7 @@ This section contains articles that apply to Cloud Composer - a service built by
 
 - [https://medium.com/traveloka-engineering/enabling-autoscaling-in-google-cloud-composer-ac84d3ddd60](Enabling Autoscaling in Google Cloud Composer) - Supercharge your Cloud Composer deployment while saving up some cost on idle period
 - [https://cloud.google.com/blog/products/data-analytics/scale-your-composer-environment-together-your-business]() - The Celery Executor architecture and ways to ensure high scheduler performance.
-- [pianka.sh] - Missing command in the cloud applicaation. This tool facilitates some administrative tasks.
+- [pianka.sh](https://gist.github.com/mik-laj/fd2bbae8e06050cef15ea88d5b6c9b28) - Missing command in the cloud applicaation. This tool facilitates some administrative tasks.
 
 
 ## Non-English resources
