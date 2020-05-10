@@ -159,7 +159,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 
 ## Cloud Composer resources
 
-This section contains articles that apply to Cloud Composer - a service built by Google Cloud based on Apache Airlfow. Tricks and solutions are described here that are intended for Cloud Composer, but may be applicable to vanilllaa Airflow
+This section contains articles that apply to Cloud Composer - a service built by Google Cloud based on Apache Airlfow. Tricks and solutions are described here that are intended for Cloud Composer, but may be applicable to vanilla Airflow
 
 - [https://medium.com/traveloka-engineering/enabling-autoscaling-in-google-cloud-composer-ac84d3ddd60](Enabling Autoscaling in Google Cloud Composer) - Supercharge your Cloud Composer deployment while saving up some cost on idle period
 - [https://cloud.google.com/blog/products/data-analytics/scale-your-composer-environment-together-your-business]() - The Celery Executor architecture and ways to ensure high scheduler performance.
