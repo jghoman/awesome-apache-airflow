@@ -157,7 +157,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [Qubole](http://docs.qubole.com/en/latest/user-guide/airflow/) - Qubole is mainly known as a service-and-support company for Apache Hive, but also provides Airflow as a component of its platform.
 - [Astronomer.io](https://www.astronomer.io/) - Astronomer provides complete ETL lifecycle solutions and appears to be entirely focused on providing Airflow-based products.
 
-##  Cloud Compose resources
+## Cloud Compose resources
 
 This section contains articles that apply to Cloud Composer - a service built by Google Cloud based on Apache Airlfow. Tricks and solutions are described here that are intended for Cloud Composer, but may be applicable to vanilllaa Airflow
 
