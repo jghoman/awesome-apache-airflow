@@ -12,6 +12,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [Libraries, Hooks, Utilities](#libraries-hooks-utilities)
 - [Meetups](#meetups)
 - [Commercial Airflow-as-a-service providers](#commercial-airflow-as-a-service-providers)
+- [Cloud Composer resources](#cloud-composer-resources)
 - [Non-English resources](#non-english-resources)
 
 ## Vital links
@@ -159,6 +160,14 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [Google Cloud Composer](https://cloud.google.com/composer/) - Google Cloud Composer is a managed service built atop Google Cloud and Airflow.
 - [Qubole](http://docs.qubole.com/en/latest/user-guide/airflow/) - Qubole is mainly known as a service-and-support company for Apache Hive, but also provides Airflow as a component of its platform.
 - [Astronomer.io](https://www.astronomer.io/) - Astronomer provides complete ETL lifecycle solutions and appears to be entirely focused on providing Airflow-based products.
+
+## Cloud Composer resources
+
+This section contains articles that apply to [Cloud Composer](https://cloud.google.com/composer) - a service built by Google Cloud based on Apache Airflow. Tricks and solutions are described here that are intended for Cloud Composer, but may be applicable to vanilla Airflow.
+
+- [Enabling Autoscaling in Google Cloud Composer](https://medium.com/traveloka-engineering/enabling-autoscaling-in-google-cloud-composer-ac84d3ddd60) - Supercharge your Cloud Composer deployment while saving up some cost during idle periods.
+- [Scale your Composer environment together with your business](https://cloud.google.com/blog/products/data-analytics/scale-your-composer-environment-together-your-business) - The Celery Executor architecture and ways to ensure high scheduler performance.
+- [pianka.sh](https://gist.github.com/mik-laj/fd2bbae8e06050cef15ea88d5b6c9b28) - Missing command in the cloud application. This tool facilitates some administrative tasks.
 
 ## Non-English resources
 - [Airflow Documentation-Chinese](https://airflow.apachecn.org) - (🇨🇳Chinese) [Apachecn](https://github.com/apachecn) has translated the Airflow official documentation.
