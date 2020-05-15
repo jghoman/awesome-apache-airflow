@@ -12,6 +12,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [Libraries, Hooks, Utilities](#libraries-hooks-utilities)
 - [Meetups](#meetups)
 - [Commercial Airflow-as-a-service providers](#commercial-airflow-as-a-service-providers)
+- [Cloud Composer resources](#cloud-composer-resources)
 - [Non-English resources](#non-english-resources)
 
 ## Vital links
@@ -161,8 +162,8 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 
 This section contains articles that apply to [Cloud Composer](https://cloud.google.com/composer) - a service built by Google Cloud based on Apache Airflow. Tricks and solutions are described here that are intended for Cloud Composer, but may be applicable to vanilla Airflow.
 
-- [https://medium.com/traveloka-engineering/enabling-autoscaling-in-google-cloud-composer-ac84d3ddd60](Enabling Autoscaling in Google Cloud Composer) - Supercharge your Cloud Composer deployment while saving up some cost on idle period
-- [https://cloud.google.com/blog/products/data-analytics/scale-your-composer-environment-together-your-business](Scale your Composer environment together with your business) - The Celery Executor architecture and ways to ensure high scheduler performance.
+- [Enabling Autoscaling in Google Cloud Composer](https://medium.com/traveloka-engineering/enabling-autoscaling-in-google-cloud-composer-ac84d3ddd60) - Supercharge your Cloud Composer deployment while saving up some cost on idle period
+- [Scale your Composer environment together with your business](https://cloud.google.com/blog/products/data-analytics/scale-your-composer-environment-together-your-business) - The Celery Executor architecture and ways to ensure high scheduler performance.
 - [pianka.sh](https://gist.github.com/mik-laj/fd2bbae8e06050cef15ea88d5b6c9b28) - Missing command in the cloud application. This tool facilitates some administrative tasks.
 
 ## Non-English resources
