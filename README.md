@@ -162,7 +162,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 
 This section contains articles that apply to [Cloud Composer](https://cloud.google.com/composer) - a service built by Google Cloud based on Apache Airflow. Tricks and solutions are described here that are intended for Cloud Composer, but may be applicable to vanilla Airflow.
 
-- [Enabling Autoscaling in Google Cloud Composer](https://medium.com/traveloka-engineering/enabling-autoscaling-in-google-cloud-composer-ac84d3ddd60) - Supercharge your Cloud Composer deployment while saving up some cost on idle period
+- [Enabling Autoscaling in Google Cloud Composer](https://medium.com/traveloka-engineering/enabling-autoscaling-in-google-cloud-composer-ac84d3ddd60) - Supercharge your Cloud Composer deployment while saving up some cost during idle periods.
 - [Scale your Composer environment together with your business](https://cloud.google.com/blog/products/data-analytics/scale-your-composer-environment-together-your-business) - The Celery Executor architecture and ways to ensure high scheduler performance.
 - [pianka.sh](https://gist.github.com/mik-laj/fd2bbae8e06050cef15ea88d5b6c9b28) - Missing command in the cloud application. This tool facilitates some administrative tasks.
 
