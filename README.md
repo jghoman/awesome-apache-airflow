@@ -142,6 +142,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [Airflow ECR Plugin](https://github.com/asandeep/airflow-ecr-plugin) - Plugin to refresh AWS ECR login token at regular intervals. This is helpful where DockerOperator needs to pull images hosted on ECR.
 - [AirflowK8sDebugger](https://github.com/Javier162380/AirflowKuberentesDebugger) - A library for generate k8s pod yaml templates from an Airflow dag using the KubernetesPodOperator.
 - [Oozie to Airflow](https://github.com/GoogleCloudPlatform/oozie-to-airflow) - A tool to easily convert between [Apache Oozie](http://oozie.apache.org/) workflows and Apache Airflow workflows.
+- [Airflow Ditto](https://github.com/angadsingh/airflow-ditto) - an extensible framework to do transformations to an Airflow DAG and convert it into another DAG which is flow-isomorphic with the original DAG, to be able to run it on different environments (e.g. on different clouds, or even different container frameworks - spark on YARN vs kubernetes). Comes with out of the box support for EMR to HDInsight DAG transforms.
 
 
 ## Meetups
