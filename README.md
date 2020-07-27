@@ -128,6 +128,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [Airflow Breeze - Development and Test Environment for Apache Airflow](https://youtu.be/4MCTXq-oF68) - Screencast showing how to use Breeze environment by [Jarek Potiuk](https://github.com/potiuk).
 
 ## Libraries, Hooks, Utilities
+- [gusty](https://github.com/chriscardillo/gusty) - Package that allows for the creation of DAGs using YAML files for each job in a DAG. Includes support for dependencies and more. A fully containerized demo is available [here](https://github.com/chriscardillo/gusty-demo).
 - [Airflow plugins](https://github.com/airflow-plugins/) - Central collection of repositories of various plugins for Airflow, including mailchimp, trello, sftp, GitHub, etc.
 - [fileflow](https://github.com/industrydive/fileflow) - Collection of modules to support large data transfers between Airflow operators through either local file system or S3.  This addresses a gap where data is too large for XCOMs but too small or inconvenient for loading directly in the operator.  Built by [Industry Dive](https://www.industrydive.com/).
 - [fairflow](https://github.com/michaelosthege/fairflow) - Library to abstract away Airflow's Operators with functional pieces that transform the data from one operator to another.
