@@ -6,6 +6,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [Vital links](#vital-links)
 - [Airflow deployment solutions](#airflow-deployment-solutions)
 - [Introductions and tutorials](#introductions-and-tutorials)
+- [Airflow Summit 2020 Videos](#airflow-summit-2020-videos)
 - [Best practices, lessons learned and cool use cases](#best-practices-lessons-learned-and-cool-use-cases)
 - [Blogs and such](#blogs-and-such)
 - [Slide deck presentations and online videos](#slide-deck-presentations-and-online-videos)
@@ -41,7 +42,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [Bitnami Airflow Scheduler Docker image](https://github.com/bitnami/bitnami-docker-airflow-scheduler) - A secure and up-to-date docker image for Airflow Scheduler maintained by Bitnami.
 - [Bitnami Airflow Worker Docker image](https://github.com/bitnami/bitnami-docker-airflow-worker) - A secure and up-to-date docker image for Airflow Worker maintained by Bitnami. A CeleryExecutor docker-compose deployment is available [here](https://github.com/bitnami/bitnami-docker-airflow-worker/blob/master/docker-compose.yml).
 - [Distribute & deploy Apache Airflow via Python PEX files](https://github.com/msumit/airflow-pex) - Example repo with steps to bundle, distribute, & deploy Apache Airflow as PEX files.
-- [Introducing KEDA for Airflow](https://www.astronomer.io/blog/the-keda-autoscaler/) - How to use KEDA scaler system to enable autoscaling of celery workers based on data stored in the Airflow metadata database. 
+- [Introducing KEDA for Airflow](https://www.astronomer.io/blog/the-keda-autoscaler/) - How to use KEDA scaler system to enable autoscaling of celery workers based on data stored in the Airflow metadata database.
 
 ## Introductions and tutorials
 - [Automate AWS Tasks Thanks to Airflow Hooks](https://blog.sicara.com/automate-aws-tasks-boto3-airflow-hooks-593c3120e8fc) - A step by step tutorial to understand how to connect your Airflow pipeline to S3.
@@ -59,6 +60,68 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [Testing and debugging Apache Airflow](https://blog.godatadriven.com/testing-and-debugging-apache-airflow) - Article explaining how to apply unit testing, mocking and debugging to Airflow code.
 - [Get started developing workflows with Apache Airflow](http://michal.karzynski.pl/blog/2017/03/19/developing-workflows-with-apache-airflow/) - This brief introductory tutorial covers how to create data pipeline and processing workflow using DAG, operators, Sensor, using Xcoms to communicate between operators.
 - [Get started with Airflow + Google Cloud Platform + Docker](https://medium.com/@junjiejiang94/get-started-with-airflow-google-cloud-platform-docker-a21c46e0f797) - Step-by-step introduction by [Jayce Jiang](https://medium.com/@junjiejiang94).
+
+
+## Airflow Summit 2020 videos
+
+The first [Airflow Summit 2020](https://airflowsummit.org/) was held in July 2020. It was a truly global,
+fully online event that was co-hosted by 9 Airflow Meetups from all over the world (
+[Melbourne](https://www.meetup.com/Melbourne-Apache-Airflow-Meetup/),
+[Tokyo](https://www.meetup.com/Tokyo-Apache-Airflow-incubating-Meetup),
+[Bangalore](https://www.meetup.com/Bangalore-Apache-Airflow-Meetup/),
+[Warsaw](https://www.meetup.com/Warsaw-Airflow-Meetup/),
+[Amsterdam](https://www.meetup.com/Amsterdam-Airflow-meetup/),
+[London](https://www.meetup.com/London-Apache-Airflow-Meetup/),
+[NYC](https://www.meetup.com/NYC-Apache-Airflow-Meetup/),
+[Seattle](https://www.meetup.com/Seattle-Apache-Airflow-Users-Group/),
+[BayArea](https://www.meetup.com/Bay-Area-Apache-Airflow-Incubating-Meetup/))
+
+It featured 40+ talks and three workshops. You can check out the talk recordings as a
+[Airflow Summit 2020 Playlist](https://www.youtube.com/playlist?list=PLGudixcDaxY3RGLSlWoN_cEEXhIT1OPmj)
+or see the individual talks here:
+
+- [Keynote: Airflow then and now](https://youtu.be/GB2f7ZhRCho)
+- [Scheduler as a service - Apache Airflow at EA Digital Platform](https://youtu.be/u00wmcHe8ow)
+- [Keynote: How large companies use Airflow for ML and ETL pipelines](https://youtu.be/428AiCBMZoQ)
+- [Data DAGs with lineage for fun and for profit](https://youtu.be/l_vVxOdvujg)
+- [Airflow on Kubernetes: Containerizing your workflows](https://youtu.be/3VDeKmxHWYA)
+- [Data flow with Airflow @ PayPal](https://youtu.be/kAtaj_s4f-w)
+- [Democratised data workflows at scale](https://youtu.be/Cd4-YtHYT9M)
+- [Migrating Airflow-based Spark jobs to Kubernetes - the native way](https://youtu.be/i79OsoLUx0k)
+- [Keynote: Future of Airflow](https://youtu.be/YLsGVFB8Pws)
+- [Run Airflow DAGs in a secure way](https://youtu.be/QhnItssm4yU)
+- [Keynote: Making Airflow a sustainable project through D&I](https://youtu.be/wxn9ta13Gbo)
+- [Airflow CI/CD: Github to Cloud Composer (safely)](https://youtu.be/ZgTf523XM0g)
+- [Advanced Apache Superset for Data Engineers](https://youtu.be/Mhai7sVU244)
+- [Demo: Reducing the lines, a visual DAG editor](https://youtu.be/I4nFCqEnOJc)
+- [AIP-31: Airflow functional DAG definition](https://youtu.be/II4Ip81T3qc)
+- [Autonomous driving with Airflow](https://youtu.be/wEq1FGe6oBY)
+- [From cron to Airflow on Kubernetes: A startup story](https://youtu.be/giQReCd7jp8)
+- [Achieving Airflow Observability](https://youtu.be/Hc4pYAUL6Qs)
+- [Machine Learning with Apache Airflow](https://youtu.be/N_3RQeqySE0)
+- [Airflow: A beast character in the gaming world](https://youtu.be/BH0ut33zp9A)
+- [Effective Cross-DAG dependency](https://youtu.be/p66GcO0LbFQ)
+- [What open source taught us about business](https://youtu.be/KIEMEYM2PEs)
+- [Data engineering hierarchy of needs](https://youtu.be/SvnTyDiZOzQ)
+- [Building reuseable and trustworthy ELT pipelines (A templated approach)](https://youtu.be/R4bp3_VyJ70)
+- [Testing Airflow workflows - ensuring your DAGs work before going into production](https://youtu.be/ANJnYbLwLjE)
+- [Adding an executor to Airflow: A contributor overflow exception](https://youtu.be/RKEmAshcreE)
+- [Migration to Airflow backport providers](https://youtu.be/1SSlxAcOEso)
+- [From Zero to Airflow: bootstrapping a ML platform](https://youtu.be/kxyCC1sieok)
+- [Airflow the perfect match in our analytics pipeline](https://youtu.be/vsn5kurjHwQ)
+- [Airflow at Société Générale : An open source orchestration solution in a banking environment](https://youtu.be/VApoz5KCguM)
+- [Airflow as the next gen of workflow system at Pinterest](https://youtu.be/KpCPfooD5hM)
+- [Improving Airflow's user experience](https://youtu.be/fe59rUezJ5Q)
+- [Teaching an old DAG new tricks](https://youtu.be/DHDlD-bMM3c)
+- [Ask me anything with Airflow members](https://youtu.be/tO6IBDPNAcY)
+- [Using Airflow to speed up development of data intensive tools](https://youtu.be/GTQU8ff_O_4)
+- [Pipelines on pipelines: Agile CI/CD workflows for Airflow DAGs](https://youtu.be/tY4F9X5l6dg)
+- [Production Docker image for Apache Airflow](https://youtu.be/wDr3Y7q2XoI)
+- [Airflow as an elastic ETL tool](https://youtu.be/_50-JFCsp3I)
+- [How do we reason about the reliability of our data pipeline in Wrike](https://youtu.be/q9pdAlcMo48)
+- [Achieving Airflow observability with Databand](https://youtu.be/aQIZ_Wdy0lA)
+- [From S3 to BigQuery - How a first-time Airflow user successfully implemented a data pipeline](https://youtu.be/yuqXWClbEM8)
+
 
 ## Best practices, lessons learned and cool use cases
 - [Testing in Airflow Part 2](https://medium.com/@chandukavar/testing-in-airflow-part-2-integration-tests-and-end-to-end-pipeline-tests-af0555cd1a82) - [Chandu Kavar](https://twitter.com/chandukavar) and [Sarang Shinde](https://www.linkedin.com/in/sarang-shinde-219a4873/) have explained Integration Tests and End-to-End Pipeline Tests.
