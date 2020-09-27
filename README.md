@@ -214,7 +214,6 @@ or see the individual talks here:
 - [Amsterdam Apache Airflow Meetup](https://www.meetup.com/Amsterdam-Airflow-meetup)
 - [Bangalore Apache Airflow Meetup](https://www.meetup.com/Bangalore-Apache-Airflow-Meetup/)
 - [Bay Area Apache Airflow Meetup](https://www.meetup.com/Bay-Area-Apache-Airflow-Incubating-Meetup)
-- [Chicago Apache Airflow (incubating) Meetup](https://www.meetup.com/Chicago-Apache-Airflow-incubating-Meetup/)
 - [London Apache Airflow Meetup](https://www.meetup.com/London-Apache-Airflow-Meetup/)
 - [Melbourne Apache Airflow Meetup](https://www.meetup.com/Melbourne-Apache-Airflow-Meetup/)
 - [New York City Apache Airflow Meetup](https://www.meetup.com/NYC-Apache-Airflow-Meetup/)
