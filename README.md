@@ -234,7 +234,9 @@ This section contains articles that apply to [Cloud Composer](https://cloud.goog
 
 - [Enabling Autoscaling in Google Cloud Composer](https://medium.com/traveloka-engineering/enabling-autoscaling-in-google-cloud-composer-ac84d3ddd60) - Supercharge your Cloud Composer deployment while saving up some cost during idle periods.
 - [Scale your Composer environment together with your business](https://cloud.google.com/blog/products/data-analytics/scale-your-composer-environment-together-your-business) - The Celery Executor architecture and ways to ensure high scheduler performance.
-- [pianka.sh](https://gist.github.com/mik-laj/fd2bbae8e06050cef15ea88d5b6c9b28) - Missing command in the cloud application. This tool facilitates some administrative tasks.
+- [pianka.sh](https://github.com/PolideaInternal/airflow-pianka-sh) - Missing command in the gcloud tool. This tool facilitates some administrative tasks.
+- [The Smarter Way of Scaling With Composer’s Airflow Scheduler on GKE](https://medium.com/swlh/the-smarter-way-of-scaling-with-composers-airflow-scheduler-on-gke-88619238c77b) - More effective use of nodes in the Cloud Composer service
+- [Better together: orchestrating your Data Fusion pipelines with Cloud Composer](https://cloud.google.com/blog/products/data-analytics/easier-management-for-cloud-etl-elt-pipelines) - Overview of the operator for Datafusion use case on Cloud Composer
 
 ## Non-English resources
 - [Airflow Documentation-Chinese](https://airflow.apachecn.org) - (🇨🇳Chinese) [Apachecn](https://github.com/apachecn) has translated the Airflow official documentation.
