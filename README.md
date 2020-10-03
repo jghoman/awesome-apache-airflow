@@ -64,7 +64,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 
 ## Airflow Summit 2020 videos
 
-The first [Airflow Summit 2020](https://airflowsummit.org/) was held in July 2020. It was a truly global,
+*The first [Airflow Summit 2020](https://airflowsummit.org/) was held in July 2020. It was a truly global,
 fully online event that was co-hosted by 9 Airflow Meetups from all over the world (
 [Melbourne](https://www.meetup.com/Melbourne-Apache-Airflow-Meetup/),
 [Tokyo](https://www.meetup.com/Tokyo-Apache-Airflow-incubating-Meetup),
@@ -74,11 +74,11 @@ fully online event that was co-hosted by 9 Airflow Meetups from all over the wor
 [London](https://www.meetup.com/London-Apache-Airflow-Meetup/),
 [NYC](https://www.meetup.com/NYC-Apache-Airflow-Meetup/),
 [Seattle](https://www.meetup.com/Seattle-Apache-Airflow-Users-Group/),
-[BayArea](https://www.meetup.com/Bay-Area-Apache-Airflow-Incubating-Meetup/))
+[BayArea](https://www.meetup.com/Bay-Area-Apache-Airflow-Incubating-Meetup/)).*
 
-It featured 40+ talks and three workshops. You can check out the talk recordings as a
+*It featured 40+ talks and three workshops. You can check out the talk recordings as a YouTube
 [Airflow Summit 2020 Playlist](https://www.youtube.com/playlist?list=PLGudixcDaxY3RGLSlWoN_cEEXhIT1OPmj)
-or see the individual talks here:
+or see the individual talks here:*
 
 - [Keynote: Airflow then and now](https://youtu.be/GB2f7ZhRCho)
 - [Scheduler as a service - Apache Airflow at EA Digital Platform](https://youtu.be/u00wmcHe8ow)
@@ -230,7 +230,7 @@ or see the individual talks here:
 
 ## Cloud Composer resources
 
-This section contains articles that apply to [Cloud Composer](https://cloud.google.com/composer) - a service built by Google Cloud based on Apache Airflow. Tricks and solutions are described here that are intended for Cloud Composer, but may be applicable to vanilla Airflow.
+*This section contains articles that apply to [Cloud Composer](https://cloud.google.com/composer) — a service built by Google Cloud based on Apache Airflow. Tricks and solutions are described here that are intended for Cloud Composer, but may be applicable to vanilla Airflow.*
 
 - [Enabling Autoscaling in Google Cloud Composer](https://medium.com/traveloka-engineering/enabling-autoscaling-in-google-cloud-composer-ac84d3ddd60) - Supercharge your Cloud Composer deployment while saving up some cost during idle periods.
 - [Scale your Composer environment together with your business](https://cloud.google.com/blog/products/data-analytics/scale-your-composer-environment-together-your-business) - The Celery Executor architecture and ways to ensure high scheduler performance.
