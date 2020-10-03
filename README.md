@@ -64,7 +64,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 
 ## Airflow Summit 2020 videos
 
-The first [Airflow Summit 2020](https://airflowsummit.org/) was held in July 2020. It was a truly global,
+*The first [Airflow Summit 2020](https://airflowsummit.org/) was held in July 2020. It was a truly global,
 fully online event that was co-hosted by 9 Airflow Meetups from all over the world (
 [Melbourne](https://www.meetup.com/Melbourne-Apache-Airflow-Meetup/),
 [Tokyo](https://www.meetup.com/Tokyo-Apache-Airflow-incubating-Meetup),
@@ -74,11 +74,11 @@ fully online event that was co-hosted by 9 Airflow Meetups from all over the wor
 [London](https://www.meetup.com/London-Apache-Airflow-Meetup/),
 [NYC](https://www.meetup.com/NYC-Apache-Airflow-Meetup/),
 [Seattle](https://www.meetup.com/Seattle-Apache-Airflow-Users-Group/),
-[BayArea](https://www.meetup.com/Bay-Area-Apache-Airflow-Incubating-Meetup/))
+[BayArea](https://www.meetup.com/Bay-Area-Apache-Airflow-Incubating-Meetup/)).*
 
-It featured 40+ talks and three workshops. You can check out the talk recordings as a
+*It featured 40+ talks and three workshops. You can check out the talk recordings as a YouTube
 [Airflow Summit 2020 Playlist](https://www.youtube.com/playlist?list=PLGudixcDaxY3RGLSlWoN_cEEXhIT1OPmj)
-or see the individual talks here:
+or see the individual talks here:*
 
 - [Keynote: Airflow then and now](https://youtu.be/GB2f7ZhRCho)
 - [Scheduler as a service - Apache Airflow at EA Digital Platform](https://youtu.be/u00wmcHe8ow)
@@ -171,6 +171,7 @@ or see the individual talks here:
 - [Robert Chang](https://medium.com/@rchang) - Blog posts about data engineering with Apache Airflow, explains why and has examples in code.
 
 ## Slide deck presentations and online videos
+- [Apache Airflow YouTube tutorials](https://www.youtube.com/playlist?list=PL79i7SgJCJ9hu5GqcA091h6zuewmsvSyy) - [Marc Lamberti](https://twitter.com/marclambertiml) has created a series of YouTube tutorials covering many aspects of Airflow concepts, configuration and deployment.
 - [Advanced Data Engineering Patterns with Apache Airflow](https://www.youtube.com/watch?v=23_1WlxGGM4) - Video of [Maxime Beauchemin](https://medium.com/@maximebeauchemin)'s talk that briefly introduces Airflow and then goes into more advanced use cases, including self-servive SQL queries, building A/B testing metrics frameworks and machine learning feature extraction all via Airflow.  The slides are available separately [here](https://prezi.com/p/adxlaplcwzho/advanced-data-engineering-patterns-with-apache-airflow/).
 - [Modern Data Pipelines with Apache Airflow](https://blog.tedmiston.com/momentum-2018-airflow-talk/) - A talk given by [Taylor Edmiston](https://twitter.com/kicksopenminds) and [Andy Cooper](https://twitter.com/andscoop) from Astronomer.io at Momentum Dev Con 2018 on getting started with Airflow, custom components, example DAGs, and the Astronomer Airflow CLI.
 - [Building Better Data Pipelines using Apache Airflow](https://www.slideshare.net/r39132/building-better-data-pipelines-using-apache-airflow-94060954) - Slides from [Sid Anand](https://twitter.com/r39132)'s talk at QCon 18 with a thorough overview of Airflow and its architecture.
@@ -230,13 +231,13 @@ or see the individual talks here:
 
 ## Cloud Composer resources
 
-This section contains articles that apply to [Cloud Composer](https://cloud.google.com/composer) - a service built by Google Cloud based on Apache Airflow. Tricks and solutions are described here that are intended for Cloud Composer, but may be applicable to vanilla Airflow.
+*This section contains articles that apply to [Cloud Composer](https://cloud.google.com/composer) — a service built by Google Cloud based on Apache Airflow. Tricks and solutions are described here that are intended for Cloud Composer, but may be applicable to vanilla Airflow.*
 
 - [Enabling Autoscaling in Google Cloud Composer](https://medium.com/traveloka-engineering/enabling-autoscaling-in-google-cloud-composer-ac84d3ddd60) - Supercharge your Cloud Composer deployment while saving up some cost during idle periods.
 - [Scale your Composer environment together with your business](https://cloud.google.com/blog/products/data-analytics/scale-your-composer-environment-together-your-business) - The Celery Executor architecture and ways to ensure high scheduler performance.
 - [pianka.sh](https://github.com/PolideaInternal/airflow-pianka-sh) - Missing command in the gcloud tool. This tool facilitates some administrative tasks.
-- [The Smarter Way of Scaling With Composer’s Airflow Scheduler on GKE](https://medium.com/swlh/the-smarter-way-of-scaling-with-composers-airflow-scheduler-on-gke-88619238c77b) - More effective use of nodes in the Cloud Composer service
-- [Better together: orchestrating your Data Fusion pipelines with Cloud Composer](https://cloud.google.com/blog/products/data-analytics/easier-management-for-cloud-etl-elt-pipelines) - Overview of the operator for Datafusion use case on Cloud Composer
+- [The Smarter Way of Scaling With Composer’s Airflow Scheduler on GKE](https://medium.com/swlh/the-smarter-way-of-scaling-with-composers-airflow-scheduler-on-gke-88619238c77b) - [Roy Berkowitz](https://www.linkedin.com/in/roy-berkowitz-19922aa9/) discusses more effective use of nodes in the Cloud Composer service.
+- [Better together: orchestrating your Data Fusion pipelines with Cloud Composer](https://cloud.google.com/blog/products/data-analytics/easier-management-for-cloud-etl-elt-pipelines) - [Rachael Deacon-Smith](https://www.linkedin.com/in/rachael-deacon-smith-82660172) provides an overview of the operator for Datafusion use case on Cloud Composer.
 
 ## Non-English resources
 - [Airflow Documentation-Chinese](https://airflow.apachecn.org) - (🇨🇳Chinese) [Apachecn](https://github.com/apachecn) has translated the Airflow official documentation.
@@ -245,7 +246,7 @@ This section contains articles that apply to [Cloud Composer](https://cloud.goog
 - [Apache Airflow – Kaikki Mitä Meillä On, Lähtee Dageista](https://www.solita.fi/blogit/apache-airflow-kaikki-mita-meilla-on-lahtee-dageista/) - (🇫🇮Finnish) [Olli Iivonen](https://www.linkedin.com/in/oiivonen/)'s overview of Airflow, concepts and Airflow's usage at [Solita](https://www.solita.fi/).
 - [Airflow - Automatizando seu fluxo de trabalho](https://speakerdeck.com/gilsondev/airflow-automatizando-seu-fluxo-de-trabalho) - (🇧🇷Portuguese) [Gilson Filho](https://github.com/gilsondev)'s overview of Airflow, concept and basic use.
 - [Panduan Dasar Apache Airflow](https://imamdigmi.github.io/post/tutorial-airflow-part-1/) - (🇮🇩Indonesian) [Imam Digmi](https://github.com/imamdigmi) - Overview of Airflow, concept, basic use with use case.
-- [Airflow](https://blog.duyet.net/tag/airflow) - (🇻🇳Vietnamese) [Duyet Le](https://github.com/duyetdev) - Overview of Airflow, concept, basic use with use case.
+- [Airflow](https://blog.duyet.net/tag/airflow) - (🇻🇳Vietnamese) [Duyet Le](https://github.com/duyet) - Overview of Airflow, concept, basic use with use case.
 
 ## License
 
