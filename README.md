@@ -22,7 +22,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [Source code](https://github.com/apache/airflow/) (latest stable release [1.10.12](https://github.com/apache/airflow/tree/1.10.12))
 - [Documentation](https://airflow.apache.org/) (also the official website)
 - [Confluence page](https://cwiki.apache.org/confluence/display/AIRFLOW/Airflow+Home)
-- [Twitter account](https://twitter.com/ApacheAirflow) ![Twitter Follow](https://img.shields.io/twitter/follow/apacheairflow?style=social)
+- [![Twitter Follow](https://img.shields.io/twitter/follow/apacheairflow?style=social)](https://twitter.com/ApacheAirflow)
 - [Slack workspace](https://apache-airflow-slack.herokuapp.com/)
 
 ## Airflow deployment solutions
