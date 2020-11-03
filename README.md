@@ -26,6 +26,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [Slack workspace](https://apache-airflow-slack.herokuapp.com/)
 
 ## Airflow deployment solutions
+- [Installing Airflow on IBM Cloud](https://github.com/KissConsult/Apache-Airflow) Quick and easy deployment on IBM Cloud with IBM Bitnami Charts
 - [Three ways to run Airflow on Kubernetes](https://fullstaq.com/blog/three-ways-to-run-airflow-on-kubernetes/) - [Tim van de Keer](https://www.linkedin.com/in/tim-van-de-keer-bb5a1966) walks through several methods for deploying Airflow on Kubernetes.
 - [Apache Airflow Multi-Tier Free Deployment on Azure](https://azure.microsoft.com/en-us/blog/bitnami-apache-airflow-multi-tier-now-available-in-azure-marketplace/) - A free Azure Resource Manager (ARM) template by Bitnami providing a one-click solution for Airflow deployment on Azure for production use-cases.
 - [KubernetesExecutor Helm Chart](https://github.com/tekn0ir/airflow-chart) - A lean Helm Chart using the KubernetesExecutor for a more k8s native experience and complementary [KubernetesExecutor Docker Image](https://github.com/tekn0ir/airflow-docker).
