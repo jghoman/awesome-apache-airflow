@@ -7,7 +7,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [Airflow deployment solutions](#airflow-deployment-solutions)
 - [Introductions and tutorials](#introductions-and-tutorials)
 - [Best practices, lessons learned and cool use cases](#best-practices-lessons-learned-and-cool-use-cases)
-- [Blogs and such](#blogs-and-such)
+- [Books, blogs, podcasts, and such](#books-blogs-podcasts-and-such)
 - [Slide deck presentations and online videos](#slide-deck-presentations-and-online-videos)
 - [Libraries, Hooks, Utilities](#libraries-hooks-utilities)
 - [Meetups](#meetups)
@@ -101,6 +101,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [The Airflow Podcast](https://soundcloud.com/the-airflow-podcast) - A semiregular podcast discussing all things Airflow.
 - [Maxime Beauchemin](https://medium.com/@maximebeauchemin) - Maxime's blog on medium that gives insight into the philosophy behind Apache Airflow.
 - [Robert Chang](https://medium.com/@rchang) - Blog posts about data engineering with Apache Airflow, explains why and has examples in code.
+- [Airflow 2.0: DAG Authoring Redesigned](https://www.polidea.com/blog/airflow-2-0-dag-authoring-redesigned/) - blogpost about new ways of writing DAGs in Airflow 2.0
 
 ## Slide deck presentations and online videos
 - [Advanced Data Engineering Patterns with Apache Airflow](https://www.youtube.com/watch?v=23_1WlxGGM4) - Video of [Maxime Beauchemin](https://medium.com/@maximebeauchemin)'s talk that briefly introduces Airflow and then goes into more advanced use cases, including self-servive SQL queries, building A/B testing metrics frameworks and machine learning feature extraction all via Airflow.  The slides are available separately [here](https://prezi.com/p/adxlaplcwzho/advanced-data-engineering-patterns-with-apache-airflow/).
