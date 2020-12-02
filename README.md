@@ -173,7 +173,7 @@ or see the individual talks here:*
 - [The Airflow Podcast](https://soundcloud.com/the-airflow-podcast) - A semiregular podcast discussing all things Airflow.
 - [Maxime Beauchemin](https://medium.com/@maximebeauchemin) - Maxime's blog on medium that gives insight into the philosophy behind Apache Airflow.
 - [Robert Chang](https://medium.com/@rchang) - Blog posts about data engineering with Apache Airflow, explains why and has examples in code.
-- [Airflow 2.0: DAG Authoring Redesigned](https://www.polidea.com/blog/airflow-2-0-dag-authoring-redesigned/) - blogpost about new ways of writing DAGs in Airflow 2.0
+- [Airflow 2.0: DAG Authoring Redesigned](https://www.polidea.com/blog/airflow-2-0-dag-authoring-redesigned/) - Blogpost about new ways of writing DAGs in Airflow 2.0
 
 ## Slide deck presentations and online videos
 - 2020-Feb: [Apache Airflow @ Umuzi.org](https://www.youtube.com/watch?IAmWKZDmvek) ![Activity badge](https://img.shields.io/youtube/views/IAmWKZDmvek) - [Sheena O'Connell](https://twitter.com/sheena_oconnell) discusses how South Africa-based tech bootcamp [Umuzi](https://www.umuzi.org/) uses Airflow.
