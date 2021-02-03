@@ -77,7 +77,6 @@ fully online event that was co-hosted by 9 Airflow Meetups from all over the wor
 [Amsterdam](https://www.meetup.com/Amsterdam-Airflow-meetup/),
 [London](https://www.meetup.com/London-Apache-Airflow-Meetup/),
 [NYC](https://www.meetup.com/NYC-Apache-Airflow-Meetup/),
-[Seattle](https://www.meetup.com/Seattle-Apache-Airflow-Users-Group/),
 [BayArea](https://www.meetup.com/Bay-Area-Apache-Airflow-Incubating-Meetup/)).*
 
 *It featured 40+ talks and three workshops. You can check out the talk recordings as a YouTube
@@ -227,7 +226,6 @@ or see the individual talks here:*
 - [New York City Apache Airflow Meetup](https://www.meetup.com/NYC-Apache-Airflow-Meetup/)
 - [Paris Apache Airflow Meetup](https://www.meetup.com/Paris-Apache-Airflow-Meetup/)
 - [Portland Apache Airflow Meetup](https://www.meetup.com/Portland-Apache-Airflow-Meetup/)
-- [Seattle Apache Airflow Meetup](https://www.meetup.com/Seattle-Apache-Airflow-Users-Group/)
 - [Tokyo Apache Airflow (incubating) Meetup](https://www.meetup.com/Tokyo-Apache-Airflow-incubating-Meetup/)
 - [Warsaw Apache Airflow Meetup](https://www.meetup.com/Warsaw-Airflow-Meetup)
 
