@@ -61,7 +61,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
   - [Understanding Apache Airflow’s key concepts](https://medium.com/@dustinstansbury/understanding-apache-airflows-key-concepts-a96efed52b1a)
   - [How Quizlet uses Apache Airflow in practice](https://medium.com/@dustinstansbury/how-quizlet-uses-apache-airflow-in-practice-a903cbb5626d)
 - [Integrating Apache Airflow with Databricks](https://databricks.com/blog/2017/07/19/integrating-apache-airflow-with-databricks.html) - While this tutorial is focused specifically on Databricks' Spark solutions, it does have a reasonable overview of Airflow basics and demonstrates how a third party solution can quickly integrate into Airflow.
-- [Apache Airflow: Tutorial and Beginners Guide](https://www.polidea.com/blog/apache-airflow-tutorial-and-beginners-guide/) - This article discusses the basic concepts that stand behind Airflow and discusses the problems it solves.
+- [Apache Airflow 2.0 Tutorial](https://turbaszek.medium.com/apache-airflow-2-0-tutorial-41329bbf7211) - This article discusses the basic concepts that stand behind Airflow and discusses the problems it solves.
 - [Testing and debugging Apache Airflow](https://blog.godatadriven.com/testing-and-debugging-apache-airflow) - Article explaining how to apply unit testing, mocking and debugging to Airflow code.
 - [Get started developing workflows with Apache Airflow](http://michal.karzynski.pl/blog/2017/03/19/developing-workflows-with-apache-airflow/) - This brief introductory tutorial covers how to create data pipeline and processing workflow using DAG, operators, Sensor, using Xcoms to communicate between operators.
 - [Get started with Airflow + Google Cloud Platform + Docker](https://medium.com/@junjiejiang94/get-started-with-airflow-google-cloud-platform-docker-a21c46e0f797) - Step-by-step introduction by [Jayce Jiang](https://medium.com/@junjiejiang94).
@@ -173,7 +173,8 @@ or see the individual talks here:*
 - [The Airflow Podcast](https://soundcloud.com/the-airflow-podcast) - A semiregular podcast discussing all things Airflow.
 - [Maxime Beauchemin](https://medium.com/@maximebeauchemin) - Maxime's blog on medium that gives insight into the philosophy behind Apache Airflow.
 - [Robert Chang](https://medium.com/@rchang) - Blog posts about data engineering with Apache Airflow, explains why and has examples in code.
-- [Airflow 2.0: DAG Authoring Redesigned](https://www.polidea.com/blog/airflow-2-0-dag-authoring-redesigned/) - Blogpost about new ways of writing DAGs in Airflow 2.0
+- [Airflow 2.0: DAG Authoring Redesigned](https://turbaszek.medium.com/airflow-2-0-dag-authoring-redesigned-651edc397178) - Blog post about new ways of writing DAGs in Airflow 2.0.
+- [Airflow 2.0 Providers](https://higrys.medium.com/airflow-2-0-providers-1bd21ba3bd93) - Blog post about providers packages in Airflow 2.0.
 
 ## Slide deck presentations and online videos
 - 2020-Feb: [Apache Airflow @ Umuzi.org](https://www.youtube.com/watch?IAmWKZDmvek) ![Activity badge](https://img.shields.io/youtube/views/IAmWKZDmvek) - [Sheena O'Connell](https://twitter.com/sheena_oconnell) discusses how South Africa-based tech bootcamp [Umuzi](https://www.umuzi.org/) uses Airflow.
@@ -217,7 +218,7 @@ or see the individual talks here:*
 - [Airflow Ditto](https://github.com/angadsingh/airflow-ditto) - An extensible framework to do transformations to an Airflow DAG and convert it into another DAG which is flow-isomorphic with the original DAG, to be able to run it on different environments (e.g. on different clouds, or even different container frameworks - Apache Spark on YARN vs Kubernetes). Comes with out-of-the-box support for EMR-to-HDInsight-DAG transforms.
 - [gusty](https://github.com/chriscardillo/gusty) - Create a DAG using any number of YAML, Python, Jupyter Notebook, or R Markdown files that represent individual tasks in the DAG. gusty also configures dependencies, DAGs, and TaskGroups, features support for your local operators, and more. A fully containerized demo is available [here](https://github.com/chriscardillo/gusty-demo).
 - [Meltano](https://www.meltano.com) - Open source, self-hosted, CLI-first, debuggable, and extensible ELT tool that embraces [Singer](https://www.singer.io) for extraction and loading, leverages [dbt](https://www.getdbt.com) for transformation, and [integrates with Airflow for orchestration](https://meltano.com/#orchestration).
-
+- [DAG checks](https://github.com/politools/dag-checks) - The dag-checks consist of checks that can help you in maintaining your Apache Airflow instance.
 
 ## Meetups
 - [Amsterdam Apache Airflow Meetup](https://www.meetup.com/Amsterdam-Airflow-meetup)
@@ -242,7 +243,7 @@ or see the individual talks here:*
 
 - [Enabling Autoscaling in Google Cloud Composer](https://medium.com/traveloka-engineering/enabling-autoscaling-in-google-cloud-composer-ac84d3ddd60) - Supercharge your Cloud Composer deployment while saving up some cost during idle periods.
 - [Scale your Composer environment together with your business](https://cloud.google.com/blog/products/data-analytics/scale-your-composer-environment-together-your-business) - The Celery Executor architecture and ways to ensure high scheduler performance.
-- [pianka.sh](https://github.com/PolideaInternal/airflow-pianka-sh) - Missing command in the gcloud tool. This tool facilitates some administrative tasks.
+- [pianka.sh](https://github.com/politools/airflow-pianka-sh) - Missing command in the gcloud tool. This tool facilitates some administrative tasks.
 - [The Smarter Way of Scaling With Composer’s Airflow Scheduler on GKE](https://medium.com/swlh/the-smarter-way-of-scaling-with-composers-airflow-scheduler-on-gke-88619238c77b) - [Roy Berkowitz](https://www.linkedin.com/in/roy-berkowitz-19922aa9/) discusses more effective use of nodes in the Cloud Composer service.
 - [Better together: orchestrating your Data Fusion pipelines with Cloud Composer](https://cloud.google.com/blog/products/data-analytics/easier-management-for-cloud-etl-elt-pipelines) - [Rachael Deacon-Smith](https://www.linkedin.com/in/rachael-deacon-smith-82660172) provides an overview of the operator for Datafusion use case on Cloud Composer.
 
