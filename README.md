@@ -173,6 +173,7 @@ or see the individual talks here:*
 - [The Airflow Podcast](https://soundcloud.com/the-airflow-podcast) - A semiregular podcast discussing all things Airflow.
 - [Maxime Beauchemin](https://medium.com/@maximebeauchemin) - Maxime's blog on medium that gives insight into the philosophy behind Apache Airflow.
 - [Robert Chang](https://medium.com/@rchang) - Blog posts about data engineering with Apache Airflow, explains why and has examples in code.
+- [Handling Airflow logs with Kubernetes Executor](https://szeevs.medium.com/handling-airflow-logs-with-kubernetes-executor-25c11ea831e4) - A blogpost that outlines how you can set up remote S3 logging when using KubernetesExecutor, without creating complex infrastructure.
 - [Airflow 2.0: DAG Authoring Redesigned](https://turbaszek.medium.com/airflow-2-0-dag-authoring-redesigned-651edc397178) - Blog post about new ways of writing DAGs in Airflow 2.0.
 - [Airflow 2.0 Providers](https://higrys.medium.com/airflow-2-0-providers-1bd21ba3bd93) - Blog post about providers packages in Airflow 2.0.
 
