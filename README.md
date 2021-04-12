@@ -256,6 +256,7 @@ or see the individual talks here:*
 - [Airflow - Automatizando seu fluxo de trabalho](https://speakerdeck.com/gilsondev/airflow-automatizando-seu-fluxo-de-trabalho) - (🇧🇷Portuguese) [Gilson Filho](https://github.com/gilsondev)'s overview of Airflow, concept and basic use.
 - [Panduan Dasar Apache Airflow](https://imamdigmi.github.io/post/tutorial-airflow-part-1/) - (🇮🇩Indonesian) [Imam Digmi](https://github.com/imamdigmi) - Overview of Airflow, concept, basic use with use case.
 - [Airflow](https://blog.duyet.net/tag/airflow) - (🇻🇳Vietnamese) [Duyet Le](https://github.com/duyet) - Overview of Airflow, concept, basic use with use case.
+- [Michael Yang's Airflow Chinese Blog Posts](https://blog.csdn.net/Young2018/article/details/109105370?spm=1001.2014.3001.5501) - Michael Yang's Chinese blog posts about data engineering with Apache Airflow, conclude basic tutorials and devops skills.
 
 ## License
 
