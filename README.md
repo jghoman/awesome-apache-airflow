@@ -220,6 +220,7 @@ or see the individual talks here:*
 - [gusty](https://github.com/chriscardillo/gusty) - Create a DAG using any number of YAML, Python, Jupyter Notebook, or R Markdown files that represent individual tasks in the DAG. gusty also configures dependencies, DAGs, and TaskGroups, features support for your local operators, and more. A fully containerized demo is available [here](https://github.com/chriscardillo/gusty-demo).
 - [Meltano](https://www.meltano.com) - Open source, self-hosted, CLI-first, debuggable, and extensible ELT tool that embraces [Singer](https://www.singer.io) for extraction and loading, leverages [dbt](https://www.getdbt.com) for transformation, and [integrates with Airflow for orchestration](https://meltano.com/#orchestration).
 - [DAG checks](https://github.com/politools/dag-checks) - The dag-checks consist of checks that can help you in maintaining your Apache Airflow instance.
+- [Airflow DVC plugin](https://github.com/covid-genomics/airflow-dvc) - Plugin for open-source version-control system for data science and Machine Learning pipelines - [DVC](https://dvc.org/).
 
 ## Meetups
 - [Amsterdam Apache Airflow Meetup](https://www.meetup.com/Amsterdam-Airflow-meetup)
