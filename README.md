@@ -262,6 +262,7 @@ or see the individual talks here:*
 ## Sample projects
 
 - [Google Cloud Platform Public Datasets Pipelines](https://github.com/GoogleCloudPlatform/public-datasets-pipelines) - Cloud-native, data pipeline architecture for onboarding datasets to the Google Cloud Public Datasets Program.
+- [GitLab Data Team DAGs](https://gitlab.com/gitlab-data/analytics/-/tree/master/dags) - Several DAGs used to build analytics for the GitLab platform.
 
 ## License
 
