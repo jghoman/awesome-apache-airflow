@@ -259,6 +259,10 @@ or see the individual talks here:*
 - [Airflow](https://blog.duyet.net/tag/airflow) - (🇻🇳Vietnamese) [Duyet Le](https://github.com/duyet) - Overview of Airflow, concept, basic use with use case.
 - [Michael Yang's Airflow Chinese Blog Posts](https://blog.csdn.net/Young2018/article/details/109105370?spm=1001.2014.3001.5501) - Michael Yang's Chinese blog posts about data engineering with Apache Airflow, conclude basic tutorials and devops skills.
 
+## Sample projects
+
+- [Google Cloud Platform Public Datasets Pipelines](https://github.com/GoogleCloudPlatform/public-datasets-pipelines) - Cloud-native, data pipeline architecture for onboarding datasets to the Google Cloud Public Datasets Program.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
