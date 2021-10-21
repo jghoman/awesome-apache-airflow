@@ -50,6 +50,8 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [Airflow-Component](https://github.com/noelmcloughlin/airflow-component#lightweight-federated-apache-airflow-installer) - Lightweight installer of federated Airflow-Airflow (RabbitMQ) reference architectrure on Compute node(s).
 
 ## Introductions and tutorials
+- [Apache Airflow Monitoring Metrics](https://youtu.be/xyeR_uFhnD4) - A two-part series by [maxcotec](https://maxcotec.com) on how you can utealize existing Airflow statsd metrics to monitor your airflow deployment on Grafana dashboard via Prometheus. Also learn how to create custom metrics.  
+- [Introduction to Airflow](https://www.youtube.com/playlist?list=PLzKRcZrsJN_xcKKyKn18K7sWu5TTtdywh) - A web tutorial series by [maxcotec](https://maxcotec.com) for beginners and intermediate users of Apache Airflow.
 - [ETL with Apache Airflow for Data Analysis on Transaction Data](https://github.com/KimaruThagna/ml-pipelines-airflow). [Kimaru Thagana](https://www.linkedin.com/in/kimaru-thagana-4920b5181/) covers a practical case of doing an ETL process using Apache Airflow using a dummy ecommerce store's transactional, user and product data. The data is served via a flask API.
 - [Start Building Better Data Pipelines With apache Airflow](https://blog.delaplex.com/start-building-better-data-pipelines-with-apache-airflow) 2020-Oct - Naman Gupta covers the basics of Airflow and its concepts.
 - [Airflow Repository Template](https://github.com/soggycactus/airflow-repo-template) - A boilerplate repository for developing locally with Airflow, with linting & tests for valid DAGs and plugins. Just clone and run `make start-airflow` to get started! Add some CI jobs to deploy your code and you're done.
@@ -129,6 +131,8 @@ or see the individual talks here:*
 
 
 ## Best practices, lessons learned and cool use cases
+- [Airflow Dag Python Package Management](https://www.youtube.com/watch?v=9pykChPp-X4&t=121s) - Managing python package dependencies across 100+ dags can become painful. It's hard to keep track of which packages are used by which dag, and hard to clean up during DAG removal/upgrade. Learn how KubernetesPodOperator and DockerOperator can fix this. 
+- [Airflow Dag Management & Versioning](https://youtu.be/a-4yRne3ba4) - Efficently manage DAGs release process by using Git Submodules
 - [Testing in Airflow Part 2](https://medium.com/@chandukavar/testing-in-airflow-part-2-integration-tests-and-end-to-end-pipeline-tests-af0555cd1a82) - [Chandu Kavar](https://twitter.com/chandukavar) and [Sarang Shinde](https://www.linkedin.com/in/sarang-shinde-219a4873/) have explained Integration Tests and End-to-End Pipeline Tests.
 - [Upgrading & Scaling Airflow at Robinhood](https://robinhood.engineering/upgrading-scaling-airflow-at-robinhood-5b625dfaa2ee) - [Abishek Ray](https://www.linkedin.com/in/abhishek-ray-29210145/) describes how Robinhood tackled upgrading its production Airflow while minimizing downtime.
 - [We're all using Airflow wrong and how to fix it](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753) - [Jessica Laughlin](https://www.jldlaughlin.com/) of [Bluecore](https://www.bluecore.com/) shares three engineering problems associated with the Airflow design and how to solve them by using the [KubernetesPodOperator](https://github.com/apache/airflow/blob/v1-10-stable/airflow/contrib/operators/kubernetes_pod_operator.py) in two design patterns.
