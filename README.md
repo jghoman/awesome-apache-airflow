@@ -176,6 +176,7 @@ or see the individual talks here:*
 - [Complex tasks orchestration at Hurb with Apache Airflow](https://medium.com/hurb-engineering/complex-tasks-orchestration-at-hurb-with-apache-airflow-dcb423c4dee6) - This post shows how [Hurb](https://hurb.com) uses Apache Airflow to orchestrate complex tasks and how it leverages DAG dynamic creation to improve development speed.
 - [Automating data export from CrateDB to S3 with Apache Airflow](https://community.crate.io/t/cratedb-and-apache-airflow-part-one/901) A tutorial on how to automate recurrent queries in [CrateDB](https://crate.io/) with Apache Airflow, such as periodic data export to Amazon S3.
 - [Implementation of Data Retention Policy with CrateDB and Apache Airflow](https://community.crate.io/t/cratedb-and-apache-airflow-implementation-of-data-retention-policy/913) A step by step tutorial on how to implement effective data retention policy with [CrateDB](https://crate.io/) and Apache Airflow.
+- [Ingesting NYC Taxi Data From S3 Into CrateDB](https://community.crate.io/t/cratedb-and-apache-airflow-building-a-data-ingestion-pipeline/926) - Describes how to build a database ingestion pipeline in Airflow by loading CSV files from S3 into [CrateDB](https://crate.io/).
 
 ## Books, blogs, podcasts, and such
 - [Data Pipelines with Apache Airflow](https://www.manning.com/books/data-pipelines-with-apache-airflow) - A Manning book (Early Access September 2019) on Airflow.
