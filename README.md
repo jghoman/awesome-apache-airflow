@@ -50,7 +50,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [Airflow-Component](https://github.com/noelmcloughlin/airflow-component#lightweight-federated-apache-airflow-installer) - Lightweight installer of federated Airflow-Airflow (RabbitMQ) reference architectrure on Compute node(s).
 
 ## Introductions and tutorials
-- [Apache Airflow Monitoring Metrics](https://youtu.be/xyeR_uFhnD4) - A two-part series by [maxcotec](https://maxcotec.com) on how you can utealize existing Airflow statsd metrics to monitor your airflow deployment on Grafana dashboard via Prometheus. Also learn how to create custom metrics.  
+- [Apache Airflow Monitoring Metrics](https://youtu.be/xyeR_uFhnD4) - A two-part series by [maxcotec](https://maxcotec.com) on how you can utilize existing Airflow statsd metrics to monitor your airflow deployment on Grafana dashboard via Prometheus. Also learn how to create custom metrics.
 - [Introduction to Airflow](https://www.youtube.com/playlist?list=PLzKRcZrsJN_xcKKyKn18K7sWu5TTtdywh) - A web tutorial series by [maxcotec](https://maxcotec.com) for beginners and intermediate users of Apache Airflow.
 - [ETL with Apache Airflow for Data Analysis on Transaction Data](https://github.com/KimaruThagna/ml-pipelines-airflow). [Kimaru Thagana](https://www.linkedin.com/in/kimaru-thagana-4920b5181/) covers a practical case of doing an ETL process using Apache Airflow using a dummy ecommerce store's transactional, user and product data. The data is served via a flask API.
 - [Start Building Better Data Pipelines With apache Airflow](https://blog.delaplex.com/start-building-better-data-pipelines-with-apache-airflow) 2020-Oct - Naman Gupta covers the basics of Airflow and its concepts.
