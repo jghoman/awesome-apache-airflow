@@ -211,6 +211,7 @@ or see the individual talks here:*
 - [Airflow Breeze - Development and Test Environment for Apache Airflow](https://youtu.be/4MCTXq-oF68) ![Activity badge](https://img.shields.io/youtube/views/4MCTXq-oF68) - Screencast showing how to use Breeze environment by [Jarek Potiuk](https://github.com/potiuk).
 
 ## Libraries, Hooks, Utilities
+- [Airflow-Helper](https://github.com/xnuinside/airflow-helper) - setting up Airflow Variables, Connections, and Pools from a YAML configuration file.
 - [AirFly](https://github.com/ryanchao2012/airfly) - Auto generate Airflow's dag.py on the fly.
 - [DEAfrica Airflow](https://github.com/digitalearthafrica/deafrica-airflow) - Airflow libraries used by [Digital Earth Africa](https://digitalearthafrica.org/), an humanitarian effort to utilize satellite imagery of Africa.
 - [Airflow plugins](https://github.com/airflow-plugins/) - Central collection of repositories of various plugins for Airflow, including mailchimp, trello, sftp, GitHub, etc.
