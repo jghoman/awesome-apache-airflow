@@ -131,6 +131,7 @@ or see the individual talks here:*
 
 
 ## Best practices, lessons learned and cool use cases
+- [How to Best Use DuckDB with Apache Airflow](https://medium.com/apache-airflow/how-to-best-use-duckdb-with-apache-airflow-63a079160d5d) - Tips on integrating [DuckDB](https://duckdb.org/) into Airflow jobs.
 - [Airflow Dag Python Package Management](https://www.youtube.com/watch?v=9pykChPp-X4&t=121s) - Managing python package dependencies across 100+ dags can become painful. It's hard to keep track of which packages are used by which dag, and hard to clean up during DAG removal/upgrade. Learn how KubernetesPodOperator and DockerOperator can fix this. 
 - [Airflow Dag Management & Versioning](https://youtu.be/a-4yRne3ba4) - Efficently manage DAGs release process by using Git Submodules
 - [Testing in Airflow Part 2](https://medium.com/@chandukavar/testing-in-airflow-part-2-integration-tests-and-end-to-end-pipeline-tests-af0555cd1a82) - [Chandu Kavar](https://twitter.com/chandukavar) and [Sarang Shinde](https://www.linkedin.com/in/sarang-shinde-219a4873/) have explained Integration Tests and End-to-End Pipeline Tests.
