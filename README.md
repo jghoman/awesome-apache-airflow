@@ -236,6 +236,9 @@ or see the individual talks here:*
 - [DAG checks](https://github.com/politools/dag-checks) - The dag-checks consist of checks that can help you in maintaining your Apache Airflow instance.
 - [Airflow DVC plugin](https://github.com/covid-genomics/airflow-dvc) - Plugin for open-source version-control system for data science and Machine Learning pipelines - [DVC](https://dvc.org/).
 - [Airflow Vars](https://github.com/omerzamir/airflow-vars) - A CLI for variables management, created for CD-Pipelines in order to allow robust and safe variables management.
+- [airflow-priority](https://github.com/airflow-laminar/airflow-priority) - Priority Tags (P1, P2, etc) for Airflow DAGs with automated alerting to Datadog, New Relic, Slack, Discord, and more
+- [airflow-config](https://github.com/airflow-laminar/airflow-config) - [Pydantic](https://pydantic.dev) / [Hydra](https://hydra.cc) based configuration system for DAG and Task arguments
+- [airflow-supervisor](https://github.com/airflow-laminar/airflow-supervisor) - Easy-to-use [supervisor](http://supervisord.org) integration for long running or "always on" DAGs
 
 ## Meetups
 - [Amsterdam Apache Airflow Meetup](https://www.meetup.com/Amsterdam-Airflow-meetup)
