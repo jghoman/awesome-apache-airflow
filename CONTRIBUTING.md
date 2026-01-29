@@ -44,11 +44,12 @@ You'll need a [GitHub account](https://github.com/join)!
 
 ## Checking for broken links
 
-We automatically check for broken links in all pull requests and weekly on the main branch. To check for broken links locally before submitting your PR:
+We automatically check for broken links in all pull requests and weekly on the main branch using [Lychee](https://github.com/lycheeverse/lychee). To check for broken links locally before submitting your PR:
 
-1. Install Node.js (version 20 or later)
-2. Run `npm install` to install dependencies
-3. Run `bash check-for-dead-links.sh` to check all links in README.md
+1. Install Lychee: `cargo install lychee` (requires [Rust](https://rustup.rs/)) or download from [releases](https://github.com/lycheeverse/lychee/releases)
+2. Run `lychee --verbose --no-progress '*.md'` from the repository root
+
+Alternatively, you can wait for the automated CI check to run on your pull request.
 
 The link checker will report any broken links that need to be fixed.
 

@@ -1,0 +1,9 @@
+# Domains that rate-limit or block automated requests
+https://www.linkedin.com/*
+https://twitter.com/*
+https://x.com/*
+https://www.meetup.com/*
+https://img.shields.io/*
+
+# YouTube view count badges that can be unstable
+https://img.shields.io/youtube/views/*

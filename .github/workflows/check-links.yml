@@ -19,13 +19,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Check links with Lychee
+        uses: lycheeverse/lychee-action@v2
         with:
-          node-version: '20'
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Check for broken links
-        run: bash check-for-dead-links.sh
+          args: --verbose --no-progress --exclude-path node_modules '*.md'
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
