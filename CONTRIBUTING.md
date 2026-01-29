@@ -21,6 +21,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request and commit should have a useful title.
 - The body of your commit message should contain a link to the repository.
+- All links should be valid and accessible. Our CI will automatically check for broken links.
 
 Thank you for your suggestions!
 
@@ -40,4 +41,14 @@ You'll need a [GitHub account](https://github.com/join)!
 4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).
 5. Say why you're proposing the changes, and then click on "Propose file change".
 6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
+
+## Checking for broken links
+
+We automatically check for broken links in all pull requests and weekly on the main branch. To check for broken links locally before submitting your PR:
+
+1. Install Node.js (version 20 or later)
+2. Run `npm install` to install dependencies
+3. Run `bash check-for-dead-links.sh` to check all links in README.md
+
+The link checker will report any broken links that need to be fixed.
 
