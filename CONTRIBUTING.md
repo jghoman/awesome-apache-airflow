@@ -52,4 +52,3 @@ We automatically check for broken links in all pull requests and weekly on the m
 Alternatively, you can wait for the automated CI check to run on your pull request.
 
 The link checker will report any broken links that need to be fixed.
-

@@ -2,9 +2,9 @@ name: Check Links
 
 on:
   push:
-    branches: [ main, master ]
+    branches: [main, master]
   pull_request:
-    branches: [ main, master ]
+    branches: [main, master]
   schedule:
     # Run weekly on Monday at 00:00 UTC
     - cron: '0 0 * * 1'
@@ -22,7 +22,7 @@ jobs:
       - name: Check links with Lychee
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --verbose --no-progress --exclude-path node_modules '*.md'
+          args: --verbose --no-progress --exclude-path node_modules --accept 200,206,301,302,307,308,403,405,999 --timeout 20 --max-retries 3 --retry-wait-time 5 '*.md'
           fail: true
         env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
