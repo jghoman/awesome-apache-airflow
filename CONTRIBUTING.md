@@ -21,6 +21,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request and commit should have a useful title.
 - The body of your commit message should contain a link to the repository.
+- All links should be valid and accessible. Our CI will automatically check for broken links.
 
 Thank you for your suggestions!
 
@@ -40,4 +41,22 @@ You'll need a [GitHub account](https://github.com/join)!
 4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).
 5. Say why you're proposing the changes, and then click on "Propose file change".
 6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
+
+## Checking for broken links
+
+We automatically check for broken links in all pull requests and weekly on the main branch using [Lychee](https://github.com/lycheeverse/lychee). The link checker runs in **informational mode** - it reports broken links but won't block your PR from being merged.
+
+To check for broken links locally before submitting your PR:
+
+1. Install Lychee: `cargo install lychee` (requires [Rust](https://rustup.rs/)) or download from [releases](https://github.com/lycheeverse/lychee/releases)
+2. Run `lychee --verbose --no-progress '*.md'` from the repository root
+
+Alternatively, you can wait for the automated CI check to run on your pull request, which will report any broken links in informational mode.
+
+If the link checker reports broken links, please review them and fix if possible. However, we understand that:
+- External sites may go down temporarily or permanently
+- Some sites have SSL/certificate issues
+- Historical links may still be valuable even if currently unavailable
+
+Maintainers will review and address reported broken links as appropriate.
 
