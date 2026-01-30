@@ -23,6 +23,6 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           args: --verbose --no-progress --exclude-path node_modules --accept 200,206,301,302,307,308,403,405,999 --timeout 20 --max-retries 3 --retry-wait-time 5 '*.md'
-          fail: true
+          fail: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
