@@ -51,6 +51,8 @@ To check for broken links locally before submitting your PR:
 1. Install Lychee: `cargo install lychee` (requires [Rust](https://rustup.rs/)) or download from [releases](https://github.com/lycheeverse/lychee/releases)
 2. Run `lychee --verbose --no-progress '*.md'` from the repository root
 
+Alternatively, you can wait for the automated CI check to run on your pull request, which will report any broken links in informational mode.
+
 If the link checker reports broken links, please review them and fix if possible. However, we understand that:
 - External sites may go down temporarily or permanently
 - Some sites have SSL/certificate issues
@@ -58,4 +60,3 @@ If the link checker reports broken links, please review them and fix if possible
 
 Maintainers will review and address reported broken links as appropriate.
 
-The link checker will report any broken links that need to be fixed.
