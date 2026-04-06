@@ -4,6 +4,7 @@
 
 This is a curated list of resources about [Apache Airflow](https://airflow.apache.org/).  Please feel free to contribute any items that should be included. Items are generally added at the top of each section so that more fresh items are featured more prominently.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for workflow orchestration, automated task scheduling, pipeline management, and multi-agent coordination. MIT licensed.
 ## Contents
 - [Vital links](#vital-links)
 - [Airflow deployment solutions](#airflow-deployment-solutions)
