@@ -212,6 +212,7 @@ or see the individual talks here:*
 - [Airflow Breeze - Development and Test Environment for Apache Airflow](https://youtu.be/4MCTXq-oF68) ![Activity badge](https://img.shields.io/youtube/views/4MCTXq-oF68) - Screencast showing how to use Breeze environment by [Jarek Potiuk](https://github.com/potiuk).
 
 ## Libraries, Hooks, Utilities
+- [airflow-provider-shopsavvy](https://github.com/shopsavvy/airflow-provider-shopsavvy) - Apache Airflow provider package for [ShopSavvy](https://shopsavvy.com/) with operators, hooks, and sensors for product price data ETL pipelines.
 - [Domino](https://github.com/Tauffer-Consulting/domino) - Domino is an open source Graphical User Interface platform for creating data and Machine Learning workflows (DAGs) with no-code, visually intuitive drag-and-drop actions. It is also a standard for publishing and sharing your Python code so it can be automatically used by anyone, directly in the GUI.
 - [Airflow-Helper](https://github.com/xnuinside/airflow-helper) - setting up Airflow Variables, Connections, and Pools from a YAML configuration file.
 - [AirFly](https://github.com/ryanchao2012/airfly) - Auto generate Airflow's dag.py on the fly.
