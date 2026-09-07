@@ -21,7 +21,6 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 ## Vital links
 - [Source code](https://github.com/apache/airflow/) (latest stable release [1.10.12](https://github.com/apache/airflow/tree/1.10.12))
 - [Documentation](https://airflow.apache.org/) (also the official website)
-- [Confluence page](https://cwiki.apache.org/confluence/display/AIRFLOW/Airflow+Home)
 - [![Twitter Follow](https://img.shields.io/twitter/follow/apacheairflow?style=social)](https://twitter.com/ApacheAirflow)
 
 ## Airflow deployment solutions
@@ -38,12 +37,13 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [airflow-k8s-executor-on-GKE](https://github.com/EamonKeane/airflow-GKE-k8sExecutor-helm) - A detailed tutorial to get a scalable, low maintenance airflow kubernetes executor environment deployed on [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine/) with [helm](https://helm.sh/).
 - [airflow-cookbook](https://github.com/bahchis/airflow-cookbook) - Chef cookbook for deploying Airflow.
 - [Integrating Apache Airflow with Apache Ambari](https://medium.com/@mykolamykhalov/integrating-apache-airflow-with-apache-ambari-ccab2c90173) - [Mykola Mykhalov](https://www.linkedin.com/in/mykola-mykhalov-9079a8107/) walks through using [Apache Ambari](https://ambari.apache.org/) to configure and deploy an Airflow instance.
-- [Astronomer Platform](https://github.com/astronomerio/astronomer) - Apache Airflow as a Service on Kubernetes. For more information visit https://www.astronomer.io.
+- [Astronomer Platform](https://github.com/astronomerio/astronomer) - Apache Airflow as a Service on Kubernetes. For more information visit <https://www.astronomer.io>.
 - [Distribute & deploy Apache Airflow via Python PEX files](https://github.com/msumit/airflow-pex) - Example repo with steps to bundle, distribute, & deploy Apache Airflow as PEX files.
 - [Introducing KEDA for Airflow](https://www.astronomer.io/blog/the-keda-autoscaler/) - How to use KEDA scaler system to enable autoscaling of celery workers based on data stored in the Airflow metadata database.
 - [Airflow-Component](https://github.com/noelmcloughlin/airflow-component#lightweight-federated-apache-airflow-installer) - Lightweight installer of federated Airflow-Airflow (RabbitMQ) reference architectrure on Compute node(s).
 
 ## Introductions and tutorials
+- [Apache Airflow Zero to Hero — 37-part tutorial series](https://thecodeforge.io/devops/airflow-introduction/) - Free 37-article series covering Airflow 3.x from first install to production (DAGs, TaskFlow API, sensors, Celery/Kubernetes executors, monitoring, CI/CD). Each guide opens with a real production incident and includes runnable code.
 - [Apache Airflow Monitoring Metrics](https://youtu.be/xyeR_uFhnD4) - A two-part series by [maxcotec](https://maxcotec.com) on how you can utilize existing Airflow statsd metrics to monitor your airflow deployment on Grafana dashboard via Prometheus. Also learn how to create custom metrics.
 - [Introduction to Airflow](https://www.youtube.com/playlist?list=PLzKRcZrsJN_xcKKyKn18K7sWu5TTtdywh) - A web tutorial series by [maxcotec](https://maxcotec.com) for beginners and intermediate users of Apache Airflow.
 - [ETL with Apache Airflow for Data Analysis on Transaction Data](https://github.com/KimaruThagna/ml-pipelines-airflow). [Kimaru Thagana](https://www.linkedin.com/in/kimaru-thagana-4920b5181/) covers a practical case of doing an ETL process using Apache Airflow using a dummy ecommerce store's transactional, user and product data. The data is served via a flask API.
@@ -149,7 +149,7 @@ or see the individual talks here:*
 - [Breaking up the Airflow DAG monorepo](https://tech.scribd.com/blog/2020/breaking-up-the-dag-repo.html) - This post describes how to support managing Airflow DAGs from multiple git repos through S3.
 - [Improving Performance of Apache Airflow Scheduler](https://medium.com/databand-ai/improving-performance-of-apache-airflow-scheduler-507f4cb6462a) - A story of an adventure that allowed [Databand](https://databand.ai/) to speed up DAG parsing time 10 times
 - [How SSENSE is using Apache Airflow to do Data Lineage on AWS](https://medium.com/ssense-tech/principled-data-engineering-part-ii-data-governance-30297abb2446) - Exploring the fundamental themes of architecting and governing a data lake on AWS using Apache Arflow.
-- [Complex tasks orchestration at Hurb with Apache Airflow](https://medium.com/hurb-engineering/complex-tasks-orchestration-at-hurb-with-apache-airflow-dcb423c4dee6) - This post shows how [Hurb](https://hurb.com) uses Apache Airflow to orchestrate complex tasks and how it leverages DAG dynamic creation to improve development speed.
+- [Complex tasks orchestration at Hurb with Apache Airflow](https://medium.com/hurb-engineering/complex-tasks-orchestration-at-hurb-with-apache-airflow-dcb423c4dee6) - This post shows how Hurb uses Apache Airflow to orchestrate complex tasks and how it leverages DAG dynamic creation to improve development speed.
 - [Automating data export from CrateDB to S3 with Apache Airflow](https://community.crate.io/t/cratedb-and-apache-airflow-part-one/901) A tutorial on how to automate recurrent queries in [CrateDB](https://crate.io/) with Apache Airflow, such as periodic data export to Amazon S3.
 - [Implementation of Data Retention Policy with CrateDB and Apache Airflow](https://community.crate.io/t/cratedb-and-apache-airflow-implementation-of-data-retention-policy/913) A step by step tutorial on how to implement effective data retention policy with [CrateDB](https://crate.io/) and Apache Airflow.
 - [Ingesting NYC Taxi Data From S3 Into CrateDB](https://community.crate.io/t/cratedb-and-apache-airflow-building-a-data-ingestion-pipeline/926) - Describes how to build a database ingestion pipeline in Airflow by loading CSV files from S3 into [CrateDB](https://crate.io/).
