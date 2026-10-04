@@ -215,6 +215,7 @@ or see the individual talks here:*
 - [airflow-config](https://github.com/airflow-laminar/airflow-config) - [Pydantic](https://pydantic.dev) / [Hydra](https://hydra.cc) based configuration system for DAG and Task arguments
 - [airflow-supervisor](https://github.com/airflow-laminar/airflow-supervisor) - Easy-to-use [supervisor](http://supervisord.org) integration for long running or "always on" DAGs
 - [dlt](https://github.com/dlt-hub/dlt) - [data load tool](https://dlthub.com/) is an open-source Python library for building data pipelines with schema inference and incremental loading. Includes an [Airflow helper](https://dlthub.com/docs/walkthroughs/deploy-a-pipeline/deploy-with-airflow-composer) to convert dlt pipelines into Airflow DAGs/TaskGroups.
+- [airflow-provider-darkmoon](https://github.com/ASCIT31/airflow-provider-darkmoon) - Apache Airflow provider package for [Darkmoon](https://github.com/ASCIT31/Dark-Moon), an autonomous AI penetration testing platform, with a hook, operators and a sensor to start a pentest campaign from a DAG, wait for it and gate the pipeline on finding severity; requires a self-hosted Darkmoon Pro dashboard API.
 
 ## Meetups
 - [Amsterdam Apache Airflow Meetup](https://www.meetup.com/Amsterdam-Airflow-meetup)
