@@ -1,0 +1,26 @@
+# Domains that rate-limit or block automated requests
+https://www.linkedin.com/*
+https://twitter.com/*
+https://x.com/*
+https://www.meetup.com/*
+https://img.shields.io/*
+
+# Domains with SSL certificate issues or consistent failures
+https://eng.lyft.com/*
+https://engineering.pandora.com/*
+https://robinhood.engineering/*
+
+# Domains that are frequently down or have reliability issues
+https://soundcloud.com/*
+https://eventil.com/*
+https://hurb.com/*
+https://imamdigmi.github.io/*
+https://sekailab.com/*
+
+# Known broken links (404s) - keeping for historical reference
+https://fullstaq.com/*
+https://github.com/bitnami/bitnami-docker-airflow*
+https://towardsdatascience.com/*
+https://wecode.wepay.com/*
+https://wepayinc.app.box.com/*
+https://www.solita.fi/*
