@@ -60,6 +60,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [Get started developing workflows with Apache Airflow](http://michal.karzynski.pl/blog/2017/03/19/developing-workflows-with-apache-airflow/) - This brief introductory tutorial covers how to create data pipeline and processing workflow using DAG, operators, Sensor, using Xcoms to communicate between operators.
 - [Get started with Airflow + Google Cloud Platform + Docker](https://medium.com/@junjiejiang94/get-started-with-airflow-google-cloud-platform-docker-a21c46e0f797) - Step-by-step introduction by [Jayce Jiang](https://medium.com/@junjiejiang94).
 - [How to develop data pipeline in Airflow through TDD (test-driven development)](https://blog.magrathealabs.com/how-to-develop-data-pipeline-in-airflow-through-tdd-test-driven-development-c3333439f358) - Learn how to build a sales data pipeline using TDD step-by-step and in the end how to configure a simple CI workflow using Github Actions.
+- [Apache Airflow for Data Engineers](https://datadank.com/airflow/) - Free 10-lesson course on Airflow 3, from a first DAG to production: TaskFlow, scheduling and timetables, retries, sensors, XCom, executors, testing and CI/CD, plus 50 interview questions.
 
 
 ## Airflow Summit 2020 videos
