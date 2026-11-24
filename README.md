@@ -62,6 +62,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [How to develop data pipeline in Airflow through TDD (test-driven development)](https://blog.magrathealabs.com/how-to-develop-data-pipeline-in-airflow-through-tdd-test-driven-development-c3333439f358) - Learn how to build a sales data pipeline using TDD step-by-step and in the end how to configure a simple CI workflow using Github Actions.
 - [Apache Airflow for Data Engineers](https://datadank.com/airflow/) - Free 10-lesson course on Airflow 3, from a first DAG to production: TaskFlow, scheduling and timetables, retries, sensors, XCom, executors, testing and CI/CD, plus 50 interview questions.
 - [Apache Airflow course on The Work Gym](https://theworkgym.com/airflow/) - Write Dags in a browser workspace (TaskFlow, scheduling, XCom, sensors) with each task checked; first unit free.
+- [Apache Airflow Tutorial: A Daily Sales Report Dag](https://learn.ynteractive.com/content/apache-airflow-daily-sales-report-dag-tutorial) - Free 8-step beginner walkthrough built from the Airflow 3 docs: start Airflow with `airflow standalone`, write a TaskFlow Dag that totals a daily sales CSV by store, trigger it and read the task logs in Grid View.
 
 
 ## Airflow Summit 2020 videos
