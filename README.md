@@ -19,7 +19,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [Non-English resources](#non-english-resources)
 
 ## Vital links
-- [Source code](https://github.com/apache/airflow/) (latest stable release [1.10.12](https://github.com/apache/airflow/tree/1.10.12))
+- [Source code](https://github.com/apache/airflow/) ([releases](https://github.com/apache/airflow/releases))
 - [Documentation](https://airflow.apache.org/) (also the official website)
 - [![Twitter Follow](https://img.shields.io/twitter/follow/apacheairflow?style=social)](https://twitter.com/ApacheAirflow)
 
