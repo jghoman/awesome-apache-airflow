@@ -1,4 +1,4 @@
-[<img src="https://github.com/jghoman/awesome-apache-airflow/raw/master/airflow-logo.png" align="right">](https://airflow.apache.org/)
+[<img src="https://github.com/jghoman/awesome-apache-airflow/raw/main/airflow-logo.png" align="right">](https://airflow.apache.org/)
 # Awesome Apache Airflow
 ![contrib badge](https://img.shields.io/github/contributors/jghoman/awesome-apache-airflow.svg) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jghoman/awesome-apache-airflow?style=plastic)
 
