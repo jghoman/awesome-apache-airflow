@@ -62,6 +62,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 - [Apache Airflow for Data Engineers](https://datadank.com/airflow/) - Free 10-lesson course on Airflow 3, from a first DAG to production: TaskFlow, scheduling and timetables, retries, sensors, XCom, executors, testing and CI/CD, plus 50 interview questions.
 - [Apache Airflow course on The Work Gym](https://theworkgym.com/airflow/) - Write Dags in a browser workspace (TaskFlow, scheduling, XCom, sensors) with each task checked; first unit free.
 - [Apache Airflow Tutorial: A Daily Sales Report Dag](https://learn.ynteractive.com/content/apache-airflow-daily-sales-report-dag-tutorial) - Free 8-step beginner walkthrough built from the Airflow 3 docs: start Airflow with `airflow standalone`, write a TaskFlow Dag that totals a daily sales CSV by store, trigger it and read the task logs in Grid View.
+- [Apache Airflow 3.4.0 Docker Compose Architecture Diagram](https://app.iceshore.ai/en/design/d99356af53bcf424a53.86536934/) - Unofficial interactive diagram of the "Running Airflow in Docker" setup (API server, scheduler, Dag processor, Celery worker, triggerer, PostgreSQL, Redis), with 23 use cases traced call by call.
 
 
 ## Airflow Summit 2020 videos
